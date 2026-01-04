@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 415de191b33a0274182a7dc2c0cb8e27
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6104620928100657956
+    second: General Noah_0
+  - first:
+      213: 1329059679008410106
+    second: General Noah_1
+  - first:
+      213: 6330143705207698644
+    second: General Noah_2
+  - first:
+      213: -7714272435647834979
+    second: General Noah_3
+  - first:
+      213: -6332244339584061081
+    second: General Noah_4
+  - first:
+      213: -8612307897780047124
+    second: General Noah_5
+  - first:
+      213: -4308376602874336516
+    second: General Noah_6
+  - first:
+      213: 7107969508383006709
+    second: General Noah_7
+  - first:
+      213: 4317075245896169556
+    second: General Noah_8
+  - first:
+      213: -4264231031790636343
+    second: General Noah_9
+  - first:
+      213: -3073974552964779874
+    second: General Noah_10
+  - first:
+      213: 8995877022474903284
+    second: General Noah_11
+  - first:
+      213: 8999556904116391322
+    second: General Noah_12
+  - first:
+      213: -7078411911751592723
+    second: General Noah_13
+  - first:
+      213: 85870580393438014
+    second: General Noah_14
+  - first:
+      213: -6447562009485316742
+    second: General Noah_15
+  - first:
+      213: 8816219869357898081
+    second: General Noah_16
+  - first:
+      213: -6099530447923601713
+    second: General Noah_17
+  - first:
+      213: -1114351157946036071
+    second: General Noah_18
+  - first:
+      213: -7242842717493826903
+    second: General Noah_19
+  - first:
+      213: 3785998312366797618
+    second: General Noah_20
+  - first:
+      213: 2178679889260567301
+    second: General Noah_21
+  - first:
+      213: -1799452609253121301
+    second: General Noah_22
+  - first:
+      213: -4190947542633951169
+    second: General Noah_23
+  - first:
+      213: 5017811056708038869
+    second: General Noah_24
+  - first:
+      213: 8351321879793515297
+    second: General Noah_25
+  - first:
+      213: -2297352620751273658
+    second: General Noah_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: General Noah_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 350
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4152c0c97084ba0800000000000000
+      internalID: -6104620928100657956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Noah_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 350
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af947948cb4c17210800000000000000
+      internalID: 1329059679008410106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Noah_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 350
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4741e492039d750800000000000000
+      internalID: 6330143705207698644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Noah_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 350
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d949f9c771661f490800000000000000
+      internalID: -7714272435647834979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Noah_4
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 350
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7613d14a2595f18a0800000000000000
+      internalID: -6332244339584061081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Noah_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 350
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce27780d89fea7880800000000000000
+      internalID: -8612307897780047124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Noah_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 315
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa22137e429534c0800000000000000
+      internalID: -4308376602874336516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Noah_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 315
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff1a75bb9494a260800000000000000
+      internalID: 7107969508383006709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Noah_8
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 315
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458f544301559eb30800000000000000
+      internalID: 4317075245896169556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Noah_9
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 315
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2fbed287862d4c0800000000000000
+      internalID: -4264231031790636343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Noah_10
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 315
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90b1f14e6c0755d0800000000000000
+      internalID: -3073974552964779874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Noah_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 315
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe17bf5d76c7dc70800000000000000
+      internalID: 8995877022474903284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Noah_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 280
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d85c59259d4ec70800000000000000
+      internalID: 8999556904116391322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Noah_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 280
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4172a8edd64cd90800000000000000
+      internalID: -7078411911751592723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Noah_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 280
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3be10186d2113100800000000000000
+      internalID: 85870580393438014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Noah_15
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 280
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7de2555388a586a0800000000000000
+      internalID: -6447562009485316742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Noah_16
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 280
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16971d6c241895a70800000000000000
+      internalID: 8816219869357898081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Noah_17
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 280
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce95d2df5d1a5ba0800000000000000
+      internalID: -6099530447923601713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Noah_18
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 207
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990d493a6870980f0800000000000000
+      internalID: -1114351157946036071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Noah_19
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 202
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa61c33ce04c7b90800000000000000
+      internalID: -7242842717493826903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Noah_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 142
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233f9d0f7619a8430800000000000000
+      internalID: 3785998312366797618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Noah_21
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 154
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bd9aee0d93c3e10800000000000000
+      internalID: 2178679889260567301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Noah_22
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 89
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be26153c26f0707e0800000000000000
+      internalID: -1799452609253121301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Noah_23
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 89
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30d1012a63c6d5c0800000000000000
+      internalID: -4190947542633951169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Noah_24
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 49
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d03c111298d2a540800000000000000
+      internalID: 5017811056708038869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Noah_25
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 17
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b3a02a00bd5e370800000000000000
+      internalID: 8351321879793515297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Noah_26
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 17
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641ce4c96f92e10e0800000000000000
+      internalID: -2297352620751273658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      General Noah_0: -6104620928100657956
+      General Noah_1: 1329059679008410106
+      General Noah_10: -3073974552964779874
+      General Noah_11: 8995877022474903284
+      General Noah_12: 8999556904116391322
+      General Noah_13: -7078411911751592723
+      General Noah_14: 85870580393438014
+      General Noah_15: -6447562009485316742
+      General Noah_16: 8816219869357898081
+      General Noah_17: -6099530447923601713
+      General Noah_18: -1114351157946036071
+      General Noah_19: -7242842717493826903
+      General Noah_2: 6330143705207698644
+      General Noah_20: 3785998312366797618
+      General Noah_21: 2178679889260567301
+      General Noah_22: -1799452609253121301
+      General Noah_23: -4190947542633951169
+      General Noah_24: 5017811056708038869
+      General Noah_25: 8351321879793515297
+      General Noah_26: -2297352620751273658
+      General Noah_3: -7714272435647834979
+      General Noah_4: -6332244339584061081
+      General Noah_5: -8612307897780047124
+      General Noah_6: -4308376602874336516
+      General Noah_7: 7107969508383006709
+      General Noah_8: 4317075245896169556
+      General Noah_9: -4264231031790636343
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

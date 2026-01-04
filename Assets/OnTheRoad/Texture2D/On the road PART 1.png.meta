@@ -1,0 +1,7176 @@
+fileFormatVersion: 2
+guid: 83c55b342cce3fa40a36ba60ad7c5868
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7419942386258570011
+    second: On the road PART 1_0
+  - first:
+      213: -3642504954825932818
+    second: On the road PART 1_1
+  - first:
+      213: -6022817938303472053
+    second: On the road PART 1_2
+  - first:
+      213: -6604522122299818292
+    second: On the road PART 1_3
+  - first:
+      213: -2359103866639718361
+    second: On the road PART 1_4
+  - first:
+      213: -4762172982727098465
+    second: On the road PART 1_5
+  - first:
+      213: 8234670074034160817
+    second: On the road PART 1_6
+  - first:
+      213: 1772131359785594477
+    second: On the road PART 1_7
+  - first:
+      213: 9046923163088526439
+    second: On the road PART 1_8
+  - first:
+      213: -8120332252978302029
+    second: On the road PART 1_9
+  - first:
+      213: -6788028935886118830
+    second: On the road PART 1_10
+  - first:
+      213: -3844435109484383351
+    second: On the road PART 1_11
+  - first:
+      213: -2479971709312622002
+    second: On the road PART 1_12
+  - first:
+      213: 2404858938946263264
+    second: On the road PART 1_13
+  - first:
+      213: 8937217139199845268
+    second: On the road PART 1_14
+  - first:
+      213: 8572891789522793768
+    second: On the road PART 1_15
+  - first:
+      213: -2441134288168455745
+    second: On the road PART 1_16
+  - first:
+      213: -2617681472258590283
+    second: On the road PART 1_17
+  - first:
+      213: 4699414231211455293
+    second: On the road PART 1_18
+  - first:
+      213: 8704109100336169521
+    second: On the road PART 1_19
+  - first:
+      213: -4056622989329983656
+    second: On the road PART 1_20
+  - first:
+      213: 575366043283545448
+    second: On the road PART 1_21
+  - first:
+      213: -3344724500394604614
+    second: On the road PART 1_22
+  - first:
+      213: 2543836998262502722
+    second: On the road PART 1_23
+  - first:
+      213: -1718634175396139334
+    second: On the road PART 1_24
+  - first:
+      213: -6872821114721771428
+    second: On the road PART 1_25
+  - first:
+      213: -3597045195345823599
+    second: On the road PART 1_26
+  - first:
+      213: -8654665489811203134
+    second: On the road PART 1_27
+  - first:
+      213: -481586881697181409
+    second: On the road PART 1_28
+  - first:
+      213: -4815376106594679809
+    second: On the road PART 1_29
+  - first:
+      213: 6589681983988267025
+    second: On the road PART 1_30
+  - first:
+      213: -8485906590325920232
+    second: On the road PART 1_31
+  - first:
+      213: 4545999157810872285
+    second: On the road PART 1_32
+  - first:
+      213: -2039294564985813652
+    second: On the road PART 1_33
+  - first:
+      213: 8689515465136850040
+    second: On the road PART 1_34
+  - first:
+      213: -625287768511012280
+    second: On the road PART 1_35
+  - first:
+      213: 8171256852499921017
+    second: On the road PART 1_36
+  - first:
+      213: 3440324149769880285
+    second: On the road PART 1_37
+  - first:
+      213: -3001876606366568528
+    second: On the road PART 1_38
+  - first:
+      213: -2475030661683142109
+    second: On the road PART 1_39
+  - first:
+      213: 6767565526253364373
+    second: On the road PART 1_40
+  - first:
+      213: -2987320755192600198
+    second: On the road PART 1_41
+  - first:
+      213: 9051794775075097150
+    second: On the road PART 1_42
+  - first:
+      213: -7347874230090201570
+    second: On the road PART 1_43
+  - first:
+      213: 5103626795267946871
+    second: On the road PART 1_44
+  - first:
+      213: -3601357560040314969
+    second: On the road PART 1_45
+  - first:
+      213: 4825885902737107845
+    second: On the road PART 1_46
+  - first:
+      213: -6441167754622456425
+    second: On the road PART 1_47
+  - first:
+      213: 1359660105374785640
+    second: On the road PART 1_48
+  - first:
+      213: 1345022648477457393
+    second: On the road PART 1_49
+  - first:
+      213: -7350426433601107584
+    second: On the road PART 1_50
+  - first:
+      213: 6556560518523824149
+    second: On the road PART 1_51
+  - first:
+      213: -5457848175731626431
+    second: On the road PART 1_52
+  - first:
+      213: -5802698735882817871
+    second: On the road PART 1_53
+  - first:
+      213: -1198006120702677558
+    second: On the road PART 1_54
+  - first:
+      213: -6034380291104963064
+    second: On the road PART 1_55
+  - first:
+      213: -8356182041901164666
+    second: On the road PART 1_56
+  - first:
+      213: -1906041397673308648
+    second: On the road PART 1_57
+  - first:
+      213: -3507316902125538880
+    second: On the road PART 1_58
+  - first:
+      213: -3020712896668591252
+    second: On the road PART 1_59
+  - first:
+      213: 3973506096075151336
+    second: On the road PART 1_60
+  - first:
+      213: -5152910827668975686
+    second: On the road PART 1_61
+  - first:
+      213: -8324986530553862551
+    second: On the road PART 1_62
+  - first:
+      213: -7932747577488234789
+    second: On the road PART 1_63
+  - first:
+      213: 1276716355393872275
+    second: On the road PART 1_64
+  - first:
+      213: -6411044832872103196
+    second: On the road PART 1_65
+  - first:
+      213: -4423985235126138632
+    second: On the road PART 1_66
+  - first:
+      213: 2931994870753103702
+    second: On the road PART 1_67
+  - first:
+      213: -7252649973304993934
+    second: On the road PART 1_68
+  - first:
+      213: 7265548590900241973
+    second: On the road PART 1_69
+  - first:
+      213: 6638758264137536440
+    second: On the road PART 1_70
+  - first:
+      213: 5173454855139255329
+    second: On the road PART 1_71
+  - first:
+      213: 24649456627238136
+    second: On the road PART 1_72
+  - first:
+      213: 6793436640869373970
+    second: On the road PART 1_73
+  - first:
+      213: -2196224176051696521
+    second: On the road PART 1_74
+  - first:
+      213: -6798492216786552054
+    second: On the road PART 1_75
+  - first:
+      213: 9049698064429141240
+    second: On the road PART 1_76
+  - first:
+      213: 5993260142852240318
+    second: On the road PART 1_77
+  - first:
+      213: -3185605959357730200
+    second: On the road PART 1_78
+  - first:
+      213: -8281781224179005110
+    second: On the road PART 1_79
+  - first:
+      213: 7289606966541407499
+    second: On the road PART 1_80
+  - first:
+      213: -1173951625239602295
+    second: On the road PART 1_81
+  - first:
+      213: 713439091490229399
+    second: On the road PART 1_82
+  - first:
+      213: -2819837998940713680
+    second: On the road PART 1_83
+  - first:
+      213: 1748353657153048329
+    second: On the road PART 1_84
+  - first:
+      213: -8990626946309116827
+    second: On the road PART 1_85
+  - first:
+      213: 4468369939053102338
+    second: On the road PART 1_86
+  - first:
+      213: 3330556670520650363
+    second: On the road PART 1_87
+  - first:
+      213: -1365121044296175085
+    second: On the road PART 1_88
+  - first:
+      213: 2020385443390765351
+    second: On the road PART 1_89
+  - first:
+      213: 1620339243317692600
+    second: On the road PART 1_90
+  - first:
+      213: -8535140005620707523
+    second: On the road PART 1_91
+  - first:
+      213: -5344996939855482342
+    second: On the road PART 1_92
+  - first:
+      213: -1395479886798409678
+    second: On the road PART 1_93
+  - first:
+      213: -4146470762011857566
+    second: On the road PART 1_94
+  - first:
+      213: -188985350289858528
+    second: On the road PART 1_95
+  - first:
+      213: 7848143349046903214
+    second: On the road PART 1_96
+  - first:
+      213: 8282068616724049715
+    second: On the road PART 1_97
+  - first:
+      213: -5850809763042236827
+    second: On the road PART 1_98
+  - first:
+      213: 9110847105065792364
+    second: On the road PART 1_99
+  - first:
+      213: -2316879589808109669
+    second: On the road PART 1_100
+  - first:
+      213: 2305568656149390869
+    second: On the road PART 1_101
+  - first:
+      213: -8583051436967624201
+    second: On the road PART 1_102
+  - first:
+      213: 5707125923323122113
+    second: On the road PART 1_103
+  - first:
+      213: 8126745959129827530
+    second: On the road PART 1_104
+  - first:
+      213: -6050240507965513343
+    second: On the road PART 1_105
+  - first:
+      213: 4238504982461306548
+    second: On the road PART 1_106
+  - first:
+      213: -5035116318710359777
+    second: On the road PART 1_107
+  - first:
+      213: 2265866648532855605
+    second: On the road PART 1_108
+  - first:
+      213: 1869574898791576771
+    second: On the road PART 1_109
+  - first:
+      213: -4307224801758374960
+    second: On the road PART 1_110
+  - first:
+      213: -7128114830042903600
+    second: On the road PART 1_111
+  - first:
+      213: -1227627955060037000
+    second: On the road PART 1_112
+  - first:
+      213: 2550178090319921473
+    second: On the road PART 1_113
+  - first:
+      213: 1847035525051364769
+    second: On the road PART 1_114
+  - first:
+      213: 317135940214566409
+    second: On the road PART 1_115
+  - first:
+      213: 124101569070768006
+    second: On the road PART 1_116
+  - first:
+      213: -5017337496083276971
+    second: On the road PART 1_117
+  - first:
+      213: 2821111437310034401
+    second: On the road PART 1_118
+  - first:
+      213: -3351959628636664499
+    second: On the road PART 1_119
+  - first:
+      213: -5239723425747181915
+    second: On the road PART 1_120
+  - first:
+      213: -1824605163028668483
+    second: On the road PART 1_121
+  - first:
+      213: 2987109492738871690
+    second: On the road PART 1_122
+  - first:
+      213: 4036094245465582148
+    second: On the road PART 1_123
+  - first:
+      213: -4014208845121620690
+    second: On the road PART 1_124
+  - first:
+      213: 6203067072402441019
+    second: On the road PART 1_125
+  - first:
+      213: -5927242095928275570
+    second: On the road PART 1_126
+  - first:
+      213: -4390176943664198902
+    second: On the road PART 1_127
+  - first:
+      213: 2283619674657326687
+    second: On the road PART 1_128
+  - first:
+      213: -2674483411727091778
+    second: On the road PART 1_129
+  - first:
+      213: -3001003069834979658
+    second: On the road PART 1_130
+  - first:
+      213: 7141898116854751053
+    second: On the road PART 1_131
+  - first:
+      213: 6808229171742405739
+    second: On the road PART 1_132
+  - first:
+      213: 8603368073978132715
+    second: On the road PART 1_133
+  - first:
+      213: 7995695442065452898
+    second: On the road PART 1_134
+  - first:
+      213: -7436069189567496179
+    second: On the road PART 1_135
+  - first:
+      213: -3692577196338703218
+    second: On the road PART 1_136
+  - first:
+      213: -2104750820572533025
+    second: On the road PART 1_137
+  - first:
+      213: -792267672329844673
+    second: On the road PART 1_138
+  - first:
+      213: -1831117388490385107
+    second: On the road PART 1_139
+  - first:
+      213: -2598763886183279019
+    second: On the road PART 1_140
+  - first:
+      213: -3356976138131949458
+    second: On the road PART 1_141
+  - first:
+      213: -5910375453442979172
+    second: On the road PART 1_142
+  - first:
+      213: 593334464066937202
+    second: On the road PART 1_143
+  - first:
+      213: 3981549514046515558
+    second: On the road PART 1_144
+  - first:
+      213: 2368586507746685821
+    second: On the road PART 1_145
+  - first:
+      213: 8844743304570774289
+    second: On the road PART 1_146
+  - first:
+      213: 5082892470570021324
+    second: On the road PART 1_147
+  - first:
+      213: -7984605964979754280
+    second: On the road PART 1_148
+  - first:
+      213: 4751075323914605565
+    second: On the road PART 1_149
+  - first:
+      213: -1704783455533317708
+    second: On the road PART 1_150
+  - first:
+      213: -6955403477921601502
+    second: On the road PART 1_151
+  - first:
+      213: -4922695326487909189
+    second: On the road PART 1_152
+  - first:
+      213: -3241115975262958313
+    second: On the road PART 1_153
+  - first:
+      213: -943779916675446996
+    second: On the road PART 1_154
+  - first:
+      213: 6899055078257578090
+    second: On the road PART 1_155
+  - first:
+      213: -795373943541685041
+    second: On the road PART 1_156
+  - first:
+      213: 5347734602676345660
+    second: On the road PART 1_157
+  - first:
+      213: -5542800706230843902
+    second: On the road PART 1_158
+  - first:
+      213: -4901360984550661113
+    second: On the road PART 1_159
+  - first:
+      213: -95178335907759415
+    second: On the road PART 1_160
+  - first:
+      213: 2034893587755744125
+    second: On the road PART 1_161
+  - first:
+      213: -6448193758654231838
+    second: On the road PART 1_162
+  - first:
+      213: -6867461800457051804
+    second: On the road PART 1_163
+  - first:
+      213: -1105100097850687348
+    second: On the road PART 1_164
+  - first:
+      213: 1310787066864656807
+    second: On the road PART 1_165
+  - first:
+      213: 8036610114893736114
+    second: On the road PART 1_166
+  - first:
+      213: 5125203146575583726
+    second: On the road PART 1_167
+  - first:
+      213: -546924848329793542
+    second: On the road PART 1_168
+  - first:
+      213: -5357107900870130627
+    second: On the road PART 1_169
+  - first:
+      213: 306610322878414946
+    second: On the road PART 1_170
+  - first:
+      213: -7851868388702796975
+    second: On the road PART 1_171
+  - first:
+      213: -9098379235649194837
+    second: On the road PART 1_172
+  - first:
+      213: 4007573356779421950
+    second: On the road PART 1_173
+  - first:
+      213: 8625955009656379235
+    second: On the road PART 1_174
+  - first:
+      213: -3201151515682672418
+    second: On the road PART 1_175
+  - first:
+      213: 6336658459791600048
+    second: On the road PART 1_176
+  - first:
+      213: 7406224354318356842
+    second: On the road PART 1_177
+  - first:
+      213: 6687510036876587314
+    second: On the road PART 1_178
+  - first:
+      213: -5847255569869713469
+    second: On the road PART 1_179
+  - first:
+      213: -3794227261580543498
+    second: On the road PART 1_180
+  - first:
+      213: 2767382640767781623
+    second: On the road PART 1_181
+  - first:
+      213: -7982260219170332158
+    second: On the road PART 1_182
+  - first:
+      213: 4129434628261797063
+    second: On the road PART 1_183
+  - first:
+      213: 8247431303292988386
+    second: On the road PART 1_184
+  - first:
+      213: 5793330545951283686
+    second: On the road PART 1_185
+  - first:
+      213: 6197215048364915854
+    second: On the road PART 1_186
+  - first:
+      213: -8170895805889129729
+    second: On the road PART 1_187
+  - first:
+      213: -3666342216686804041
+    second: On the road PART 1_188
+  - first:
+      213: -5588773168083298743
+    second: On the road PART 1_189
+  - first:
+      213: 7713350865755669516
+    second: On the road PART 1_190
+  - first:
+      213: 7690617038550542035
+    second: On the road PART 1_191
+  - first:
+      213: -6667327765940299402
+    second: On the road PART 1_192
+  - first:
+      213: -7901417992605631413
+    second: On the road PART 1_193
+  - first:
+      213: -90887798048360986
+    second: On the road PART 1_194
+  - first:
+      213: 2284865445809465918
+    second: On the road PART 1_195
+  - first:
+      213: 4952210107157222907
+    second: On the road PART 1_196
+  - first:
+      213: -7851356891933066445
+    second: On the road PART 1_197
+  - first:
+      213: -2622727972131623204
+    second: On the road PART 1_198
+  - first:
+      213: 3660440811066343993
+    second: On the road PART 1_199
+  - first:
+      213: -2910221561277023325
+    second: On the road PART 1_200
+  - first:
+      213: 7814035499540024072
+    second: On the road PART 1_201
+  - first:
+      213: 1367813776961453234
+    second: On the road PART 1_202
+  - first:
+      213: 945943391726383591
+    second: On the road PART 1_203
+  - first:
+      213: -2099540694738491442
+    second: On the road PART 1_204
+  - first:
+      213: 3229352000352194706
+    second: On the road PART 1_205
+  - first:
+      213: 8475721100268982460
+    second: On the road PART 1_206
+  - first:
+      213: 1335337545093217876
+    second: On the road PART 1_207
+  - first:
+      213: -5621181268976426863
+    second: On the road PART 1_208
+  - first:
+      213: -4773646024687125760
+    second: On the road PART 1_209
+  - first:
+      213: 6617856553713806666
+    second: On the road PART 1_210
+  - first:
+      213: 3983870051361377675
+    second: On the road PART 1_211
+  - first:
+      213: -6233465277158192881
+    second: On the road PART 1_212
+  - first:
+      213: -6944416923694011632
+    second: On the road PART 1_213
+  - first:
+      213: 3185894777281603190
+    second: On the road PART 1_214
+  - first:
+      213: 6192185733420084572
+    second: On the road PART 1_215
+  - first:
+      213: -4227418560802079971
+    second: On the road PART 1_216
+  - first:
+      213: 9016897675097225492
+    second: On the road PART 1_217
+  - first:
+      213: 7892303554907606070
+    second: On the road PART 1_218
+  - first:
+      213: 3267834371154384472
+    second: On the road PART 1_219
+  - first:
+      213: -729526508900436585
+    second: On the road PART 1_220
+  - first:
+      213: 3312214673240886581
+    second: On the road PART 1_221
+  - first:
+      213: 1877862748132289691
+    second: On the road PART 1_222
+  - first:
+      213: -4130277219244864606
+    second: On the road PART 1_223
+  - first:
+      213: -2768548631938434524
+    second: On the road PART 1_224
+  - first:
+      213: -70909646890090801
+    second: On the road PART 1_225
+  - first:
+      213: -3447416422458225437
+    second: On the road PART 1_226
+  - first:
+      213: 4800983611594367446
+    second: On the road PART 1_227
+  - first:
+      213: 6045682204423240982
+    second: On the road PART 1_228
+  - first:
+      213: -7026954913318756454
+    second: On the road PART 1_229
+  - first:
+      213: 1164739513210069980
+    second: On the road PART 1_230
+  - first:
+      213: 3358511563994916060
+    second: On the road PART 1_231
+  - first:
+      213: -7832411357942265927
+    second: On the road PART 1_232
+  - first:
+      213: 7917622075647475801
+    second: On the road PART 1_233
+  - first:
+      213: -8295302869297566877
+    second: On the road PART 1_234
+  - first:
+      213: -349298628161149059
+    second: On the road PART 1_235
+  - first:
+      213: 1485246662030744015
+    second: On the road PART 1_236
+  - first:
+      213: -3361561758978714781
+    second: On the road PART 1_237
+  - first:
+      213: 3857390301127342690
+    second: On the road PART 1_238
+  - first:
+      213: -9105205998825016881
+    second: On the road PART 1_239
+  - first:
+      213: 5424815232194685948
+    second: On the road PART 1_240
+  - first:
+      213: 7434069401289221347
+    second: On the road PART 1_241
+  - first:
+      213: 4460392933531905512
+    second: On the road PART 1_242
+  - first:
+      213: 7010864522606062456
+    second: On the road PART 1_243
+  - first:
+      213: 5749099244669642252
+    second: On the road PART 1_244
+  - first:
+      213: 5937457686957772552
+    second: On the road PART 1_245
+  - first:
+      213: -4381305325414883290
+    second: On the road PART 1_246
+  - first:
+      213: -5790001213659824378
+    second: On the road PART 1_247
+  - first:
+      213: -150225485565707180
+    second: On the road PART 1_248
+  - first:
+      213: -6877115568927482730
+    second: On the road PART 1_249
+  - first:
+      213: 4254877892511760469
+    second: On the road PART 1_250
+  - first:
+      213: 2298828103515420446
+    second: On the road PART 1_251
+  - first:
+      213: -2909486121120919110
+    second: On the road PART 1_252
+  - first:
+      213: 2613583723987024535
+    second: On the road PART 1_253
+  - first:
+      213: -5928507547532043392
+    second: On the road PART 1_254
+  - first:
+      213: 6852754131481425647
+    second: On the road PART 1_255
+  - first:
+      213: -4257261066933860819
+    second: On the road PART 1_256
+  - first:
+      213: 6180314617589613675
+    second: On the road PART 1_257
+  - first:
+      213: 6200445263238136718
+    second: On the road PART 1_258
+  - first:
+      213: -6505136778351825329
+    second: On the road PART 1_259
+  - first:
+      213: -8985422589517881617
+    second: On the road PART 1_260
+  - first:
+      213: 5705632238571375463
+    second: On the road PART 1_261
+  - first:
+      213: -1976741061773901496
+    second: On the road PART 1_262
+  - first:
+      213: -3369832755309986319
+    second: On the road PART 1_263
+  - first:
+      213: 7462844317422754984
+    second: On the road PART 1_264
+  - first:
+      213: 7447044565318148412
+    second: On the road PART 1_265
+  - first:
+      213: 954425794029788401
+    second: On the road PART 1_266
+  - first:
+      213: -6180995928283129944
+    second: On the road PART 1_267
+  - first:
+      213: -8506145424253294837
+    second: On the road PART 1_268
+  - first:
+      213: 6824190012144854402
+    second: On the road PART 1_269
+  - first:
+      213: -6757664011784454671
+    second: On the road PART 1_270
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: On the road PART 1_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 997
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b6ecaa94ee8f660800000000000000
+      internalID: 7419942386258570011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 945
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeffffada09337dc0800000000000000
+      internalID: -3642504954825932818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 997
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e2290def6aa6ca0800000000000000
+      internalID: -6022817938303472053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 945
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce3c1d3f160854a0800000000000000
+      internalID: -6604522122299818292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 997
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72860b84887c24fd0800000000000000
+      internalID: -2359103866639718361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 945
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fb69d37ec59edb0800000000000000
+      internalID: -4762172982727098465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 997
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4885d9dcc674270800000000000000
+      internalID: 8234670074034160817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 945
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ea9532510e79810800000000000000
+      internalID: 1772131359785594477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 997
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c15262fa02d8d70800000000000000
+      internalID: 9046923163088526439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_9
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 945
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3b41bd6d8ce4f80800000000000000
+      internalID: -8120332252978302029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_10
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 997
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2506f67b5a31cc1a0800000000000000
+      internalID: -6788028935886118830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_11
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 945
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983b429f2a2d5aac0800000000000000
+      internalID: -3844435109484383351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 965
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42276daede559dd0800000000000000
+      internalID: -2479971709312622002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 965
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e890d6a676cf5120800000000000000
+      internalID: 2404858938946263264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 965
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4932a8ef2af570c70800000000000000
+      internalID: 8937217139199845268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 938
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8257e5459a709f670800000000000000
+      internalID: 8572891789522793768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 886
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb171b07c495f1ed0800000000000000
+      internalID: -2441134288168455745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_17
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 938
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9b7eee1902cabd0800000000000000
+      internalID: -2617681472258590283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_18
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 886
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3336cf385ca73140800000000000000
+      internalID: 4699414231211455293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_19
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 938
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13248c34c153bc870800000000000000
+      internalID: 8704109100336169521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_20
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 886
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8579d4552eaf3b7c0800000000000000
+      internalID: -4056622989329983656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_21
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 938
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ddcb13e5c1cf700800000000000000
+      internalID: 575366043283545448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_22
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 886
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab70f6ab9c62591d0800000000000000
+      internalID: -3344724500394604614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_23
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 938
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245bee7a5468d4320800000000000000
+      internalID: 2543836998262502722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_24
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 886
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abeaaacb25f2628e0800000000000000
+      internalID: -1718634175396139334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_25
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 938
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5064342c95de90a0800000000000000
+      internalID: -6872821114721771428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_26
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 886
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198f26ae37ab41ec0800000000000000
+      internalID: -3597045195345823599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_27
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 906
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb98f5679374e780800000000000000
+      internalID: -8654665489811203134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_28
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 906
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1193fb584f0159f0800000000000000
+      internalID: -481586881697181409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 906
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3458aa1f85c2db0800000000000000
+      internalID: -4815376106594679809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 879
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118796ec9d0437b50800000000000000
+      internalID: 6589681983988267025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_31
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 827
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e2a769ae00c3a80800000000000000
+      internalID: -8485906590325920232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_32
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 879
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfba86f522a61f30800000000000000
+      internalID: 4545999157810872285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_33
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 827
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65c2a5d568f2b3e0800000000000000
+      internalID: -2039294564985813652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_34
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 879
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874ceb9c64c579870800000000000000
+      internalID: 8689515465136850040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_35
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 827
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842218366188257f0800000000000000
+      internalID: -625287768511012280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_36
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 879
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978fbbd60d2266170800000000000000
+      internalID: 8171256852499921017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_37
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 827
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd24b3b269c7ebf20800000000000000
+      internalID: 3440324149769880285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_38
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 879
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf27f191213756d0800000000000000
+      internalID: -3001876606366568528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_39
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 827
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3222d2af9bce6add0800000000000000
+      internalID: -2475030661683142109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_40
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 872
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594e2827df83bed50800000000000000
+      internalID: 6767565526253364373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_41
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 872
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79e794c997ea86d0800000000000000
+      internalID: -2987320755192600198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_42
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 872
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a8614b36f6e9d70800000000000000
+      internalID: 9051794775075097150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_43
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 872
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e160a35815b170a90800000000000000
+      internalID: -7347874230090201570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_44
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 872
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7797c16b789b3d640800000000000000
+      internalID: 5103626795267946871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_45
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 872
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a721a44168650ec0800000000000000
+      internalID: -3601357560040314969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_46
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 879
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58be53fe8adf8f240800000000000000
+      internalID: 4825885902737107845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_47
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 827
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d270fcd006c96a0800000000000000
+      internalID: -6441167754622456425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_48
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 847
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860622c79ab7ed210800000000000000
+      internalID: 1359660105374785640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_49
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 847
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb9a59f8fa7aa210800000000000000
+      internalID: 1345022648477457393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_50
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 847
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08980955a1a0ef990800000000000000
+      internalID: -7350426433601107584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_51
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 820
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518a6fead059dfa50800000000000000
+      internalID: 6556560518523824149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_52
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 768
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ea0874004d144b0800000000000000
+      internalID: -5457848175731626431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_53
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 820
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bea8156e3ca87fa0800000000000000
+      internalID: -5802698735882817871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_54
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 768
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acde5c0d7c3df5fe0800000000000000
+      internalID: -1198006120702677558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_55
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 820
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8060215c813914ca0800000000000000
+      internalID: -6034380291104963064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_56
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 768
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6879bf1b4b0e80c80800000000000000
+      internalID: -8356182041901164666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_57
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 820
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e4e7c82716c85e0800000000000000
+      internalID: -1906041397673308648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_58
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 768
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1751e2cd1835fc0800000000000000
+      internalID: -3507316902125538880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_59
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 820
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b90a9ff954416d0800000000000000
+      internalID: -3020712896668591252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_60
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 768
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e79869edbab42730800000000000000
+      internalID: 3973506096075151336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_61
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 813
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfc68d47ee2d78b0800000000000000
+      internalID: -5152910827668975686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_62
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 813
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966ec6eabd4b77c80800000000000000
+      internalID: -8324986530553862551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 813
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd629f69b1839e190800000000000000
+      internalID: -7932747577488234789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_64
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 813
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391ee2ac2cec7b110800000000000000
+      internalID: 1276716355393872275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_65
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 813
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e20e8111b46707a0800000000000000
+      internalID: -6411044832872103196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_66
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 813
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8cbb03ed8da92c0800000000000000
+      internalID: -4423985235126138632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_67
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 820
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f8182fcc980b820800000000000000
+      internalID: 2931994870753103702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_68
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 768
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277d8e48649695b90800000000000000
+      internalID: -7252649973304993934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_69
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 788
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536e2fae2f964d460800000000000000
+      internalID: 7265548590900241973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_70
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 788
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b35b93b77b912c50800000000000000
+      internalID: 6638758264137536440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_71
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 789
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1246816d7cdcbc740800000000000000
+      internalID: 5173454855139255329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 761
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f44c2adc82975000800000000000000
+      internalID: 24649456627238136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_73
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 709
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2185427b1a2274e50800000000000000
+      internalID: 6793436640869373970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_74
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 761
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c405b7fb17581e0800000000000000
+      internalID: -2196224176051696521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_75
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 709
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bfd2a4957e6a1a0800000000000000
+      internalID: -6798492216786552054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_76
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 761
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcc6d6317cf69d70800000000000000
+      internalID: 9049698064429141240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_77
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 709
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3f635a8565c2350800000000000000
+      internalID: 5993260142852240318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_78
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 761
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8627d1e02447ac3d0800000000000000
+      internalID: -3185605959357730200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_79
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 709
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a498f49fad3311d80800000000000000
+      internalID: -8281781224179005110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_80
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 761
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05d9e00ae2e92560800000000000000
+      internalID: 7289606966541407499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_81
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 709
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bd91a773945bfe0800000000000000
+      internalID: -1173951625239602295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_82
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 761
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c0721e215a6e900800000000000000
+      internalID: 713439091490229399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_83
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 709
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d8df4b74cedd8d0800000000000000
+      internalID: -2819837998940713680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_84
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 729
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fcc545366634810800000000000000
+      internalID: 1748353657153048329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_85
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 729
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ca03d3d60ea3380800000000000000
+      internalID: -8990626946309116827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_86
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 729
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2054b4ef8c6d20e30800000000000000
+      internalID: 4468369939053102338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_87
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 702
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ae0b255a3883e20800000000000000
+      internalID: 3330556670520650363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_88
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 650
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312f05794ad1e0de0800000000000000
+      internalID: -1365121044296175085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_89
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 702
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7293da63bd9d90c10800000000000000
+      internalID: 2020385443390765351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_90
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 650
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b88395f4f99c7610800000000000000
+      internalID: 1620339243317692600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_91
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 702
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f80c0d2671d8980800000000000000
+      internalID: -8535140005620707523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_92
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 650
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a123d5a2a91c2d5b0800000000000000
+      internalID: -5344996939855482342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_93
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 702
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230bd20cf6242ace0800000000000000
+      internalID: -1395479886798409678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_94
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 650
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d6db69fc6c476c0800000000000000
+      internalID: -4146470762011857566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_95
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 702
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020683043d6906df0800000000000000
+      internalID: -188985350289858528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_96
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 650
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea109427bc43aec60800000000000000
+      internalID: 7848143349046903214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_97
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 702
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f6f31d681dfe270800000000000000
+      internalID: 8282068616724049715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_98
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 650
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566ea79f48fbdcea0800000000000000
+      internalID: -5850809763042236827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_99
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 670
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63b754bb2b307e70800000000000000
+      internalID: 9110847105065792364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_100
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 670
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b978226d94ac8dfd0800000000000000
+      internalID: -2316879589808109669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_101
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 670
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5162f033a760fff10800000000000000
+      internalID: 2305568656149390869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_102
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 643
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f183aa6130e2e880800000000000000
+      internalID: -8583051436967624201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_103
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 591
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c119142ac8c33f40800000000000000
+      internalID: 5707125923323122113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_104
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 643
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac846c9746008c070800000000000000
+      internalID: 8126745959129827530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_105
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 591
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1816905405a390ca0800000000000000
+      internalID: -6050240507965513343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_106
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 643
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6545233d132da30800000000000000
+      internalID: 4238504982461306548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_107
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 591
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f191f74a26caf1ab0800000000000000
+      internalID: -5035116318710359777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_108
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 643
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ba43636b9f17f10800000000000000
+      internalID: 2265866648532855605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_109
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 591
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4757b077012f910800000000000000
+      internalID: 1869574898791576771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_110
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 643
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3907b0dd9a934c0800000000000000
+      internalID: -4307224801758374960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_111
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 591
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db49151459d31d90800000000000000
+      internalID: -7128114830042903600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_112
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 643
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87aae4e01e696fee0800000000000000
+      internalID: -1227627955060037000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_113
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 591
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141c083367d046320800000000000000
+      internalID: 2550178090319921473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_114
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 613
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5b636260df1a910800000000000000
+      internalID: 1847035525051364769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_115
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 611
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90eaff51571b66400800000000000000
+      internalID: 317135940214566409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_116
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 611
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f188438b5e8b100800000000000000
+      internalID: 124101569070768006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_117
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 584
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b55bb5126de5ab0800000000000000
+      internalID: -5017337496083276971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_118
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 532
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e108a4c7e9962720800000000000000
+      internalID: 2821111437310034401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_119
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 584
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d49a92a727b71d0800000000000000
+      internalID: -3351959628636664499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_120
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 532
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aedb073e43c847b0800000000000000
+      internalID: -5239723425747181915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_121
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 584
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf155a7543bda6e0800000000000000
+      internalID: -1824605163028668483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_122
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 532
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81d5ebd148547920800000000000000
+      internalID: 2987109492738871690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_123
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 584
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a69f40556130830800000000000000
+      internalID: 4036094245465582148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_124
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 532
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e257b44d25aaa48c0800000000000000
+      internalID: -4014208845121620690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_125
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 584
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33487813a8b51650800000000000000
+      internalID: 6203067072402441019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_126
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 532
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d0476b7b43ebda0800000000000000
+      internalID: -5927242095928275570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_127
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 584
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b09c37455f213c0800000000000000
+      internalID: -4390176943664198902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_128
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 532
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f560b06befb01bf10800000000000000
+      internalID: 2283619674657326687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_129
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 539
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7f45ec18352ead0800000000000000
+      internalID: -2674483411727091778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_130
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 539
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b611a4ab9b4a56d0800000000000000
+      internalID: -3001003069834979658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_131
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 553
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f98257f7e1d1360800000000000000
+      internalID: 7141898116854751053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_132
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 525
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6478233c50bb7e50800000000000000
+      internalID: 6808229171742405739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_133
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 473
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be837614ead456770800000000000000
+      internalID: 8603368073978132715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_134
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 525
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f658c34aa66fe60800000000000000
+      internalID: 7995695442065452898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_135
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 473
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d004a965876cdc890800000000000000
+      internalID: -7436069189567496179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_136
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 525
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e841682aa9451ccc0800000000000000
+      internalID: -3692577196338703218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_137
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 473
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdeef07b74c6ac2e0800000000000000
+      internalID: -2104750820572533025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_138
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 525
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3801c7efbc4105f0800000000000000
+      internalID: -792267672329844673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_139
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 473
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d295df4df609696e0800000000000000
+      internalID: -1831117388490385107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_140
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 525
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5569eeca3065febd0800000000000000
+      internalID: -2598763886183279019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_141
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 473
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68be270dff9961d0800000000000000
+      internalID: -3356976138131949458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_142
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 525
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ac750f6d02afda0800000000000000
+      internalID: -5910375453442979172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_143
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 473
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271e4bb2d82fb3800800000000000000
+      internalID: 593334464066937202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_144
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 494
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6692f58103e414730800000000000000
+      internalID: 3981549514046515558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_145
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 494
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73360621e8eed020800000000000000
+      internalID: 2368586507746685821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_146
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 492
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113a47e8c27deba70800000000000000
+      internalID: 8844743304570774289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_147
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 466
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc175db85cf0a8640800000000000000
+      internalID: 5082892470570021324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_148
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 414
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8daaae9dd2bf03190800000000000000
+      internalID: -7984605964979754280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_149
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 466
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3dd07b5d53fe140800000000000000
+      internalID: 4751075323914605565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_150
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 414
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b149f1ca746758e0800000000000000
+      internalID: -1704783455533317708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_151
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 466
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22867fc5361797f90800000000000000
+      internalID: -6955403477921601502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_152
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 414
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc663f9ea21fabb0800000000000000
+      internalID: -4922695326487909189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_153
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 466
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d8b92513e3503d0800000000000000
+      internalID: -3241115975262958313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_154
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 414
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2789688a2507e2f0800000000000000
+      internalID: -943779916675446996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_155
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 466
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60d5697a0e5ebf50800000000000000
+      internalID: 6899055078257578090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_156
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 414
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4a897cc9346f4f0800000000000000
+      internalID: -795373943541685041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_157
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 466
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b9691a948f63a40800000000000000
+      internalID: 5347734602676345660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_158
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 414
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206835cef140413b0800000000000000
+      internalID: -5542800706230843902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_159
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 429
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70426ef272edafbb0800000000000000
+      internalID: -4901360984550661113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_160
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 429
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cab7e9cecbddaef0800000000000000
+      internalID: -95178335907759415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_161
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 435
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bb6edcfe46d3c10800000000000000
+      internalID: 2034893587755744125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_162
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 407
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea0684c0f96386a0800000000000000
+      internalID: -6448193758654231838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_163
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 355
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461613bb0efd1b0a0800000000000000
+      internalID: -6867461800457051804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_164
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 407
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c804c5ae055e9a0f0800000000000000
+      internalID: -1105100097850687348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_165
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 355
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1e4a874e9d03210800000000000000
+      internalID: 1310787066864656807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_166
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 407
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b86d88d156c78f60800000000000000
+      internalID: 8036610114893736114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_167
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 355
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee91a597b11602740800000000000000
+      internalID: 5125203146575583726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_168
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 407
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affd7788fbee868f0800000000000000
+      internalID: -546924848329793542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_169
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 355
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3482315fbab7a5b0800000000000000
+      internalID: -5357107900870130627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_170
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 407
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260c2a3d67c414400800000000000000
+      internalID: 306610322878414946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_171
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 355
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153404c2d4f880390800000000000000
+      internalID: -7851868388702796975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_172
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 407
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4f65b5a401cb180800000000000000
+      internalID: -9098379235649194837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_173
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 355
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef048262cb2cd9730800000000000000
+      internalID: 4007573356779421950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_174
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 372
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367d117016c85b770800000000000000
+      internalID: 8625955009656379235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_175
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 372
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0f78b28a93393d0800000000000000
+      internalID: -3201151515682672418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_176
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b92adecb4550f750800000000000000
+      internalID: 6336658459791600048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_177
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 348
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a611ef57fc138c660800000000000000
+      internalID: 7406224354318356842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_178
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 296
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23173e352fececc50800000000000000
+      internalID: 6687510036876587314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_179
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 348
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfcdfe0a006adea0800000000000000
+      internalID: -5847255569869713469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_180
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 296
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f973648862385bc0800000000000000
+      internalID: -3794227261580543498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_181
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 348
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7facb8c79d7b76620800000000000000
+      internalID: 2767382640767781623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_182
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 296
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202ee9b5f90593190800000000000000
+      internalID: -7982260219170332158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_183
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 348
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccddbc6ae2be4930800000000000000
+      internalID: 4129434628261797063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_184
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 296
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb2736d213c47270800000000000000
+      internalID: 8247431303292988386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_185
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 348
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e998d9ef6b066050800000000000000
+      internalID: 5793330545951283686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_186
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 296
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cfe72904ee00650800000000000000
+      internalID: 6197215048364915854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_187
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 348
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2df394e852b9e80800000000000000
+      internalID: -8170895805889129729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_188
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 296
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b36d55dd298e1dc0800000000000000
+      internalID: -3666342216686804041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_189
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 316
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946192a0a60b072b0800000000000000
+      internalID: -5588773168083298743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_190
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 316
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04815dceb35b0b60800000000000000
+      internalID: 7713350865755669516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_191
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 316
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d62f5e237f8aba60800000000000000
+      internalID: 7690617038550542035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_192
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 289
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679970ec8b4e873a0800000000000000
+      internalID: -6667327765940299402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_193
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 237
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c7cd00336885290800000000000000
+      internalID: -7901417992605631413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_194
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 289
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5f8ea770a1dbef0800000000000000
+      internalID: -90887798048360986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_195
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 237
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3aa909640975bf10800000000000000
+      internalID: 2284865445809465918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_196
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 289
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf59432cad8c9b440800000000000000
+      internalID: 4952210107157222907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_197
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 237
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bb38b41806a0390800000000000000
+      internalID: -7851356891933066445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_198
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 289
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde2d9e1ec23a9bd0800000000000000
+      internalID: -2622727972131623204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_199
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 237
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932c3f8168f7cc230800000000000000
+      internalID: 3660440811066343993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_200
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 242
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab7666b8e0dc97d0800000000000000
+      internalID: -2910221561277023325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_201
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 289
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b0064e2e7017c60800000000000000
+      internalID: 7814035499540024072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_202
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 237
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc3ca612637bf210800000000000000
+      internalID: 1367813776961453234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_203
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 258
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1ba71c08aa02d00800000000000000
+      internalID: 945943391726383591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_204
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 262
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7a2aaacdeecd2e0800000000000000
+      internalID: -2099540694738491442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_205
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 237
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29090b3d886f0dc20800000000000000
+      internalID: 3229352000352194706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_206
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 230
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0d0d43f6fcf9570800000000000000
+      internalID: 8475721100268982460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_207
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 178
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ef58e1c62188210800000000000000
+      internalID: 1335337545093217876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_208
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 230
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190a49c0b6d8df1b0800000000000000
+      internalID: -5621181268976426863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_209
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 178
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b711f7b3a90cdb0800000000000000
+      internalID: -4773646024687125760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_210
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 230
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d2a92097957db50800000000000000
+      internalID: 6617856553713806666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_211
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 178
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d46ba44bc894730800000000000000
+      internalID: 3983870051361377675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_212
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 230
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0901435b584e79a0800000000000000
+      internalID: -6233465277158192881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_213
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 178
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01be10bd99970af90800000000000000
+      internalID: -6944416923694011632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_214
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 230
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67664ab9b62963c20800000000000000
+      internalID: 3185894777281603190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_215
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 178
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5deebfed101fe550800000000000000
+      internalID: 6192185733420084572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_216
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 230
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bbf7e77313555c0800000000000000
+      internalID: -4227418560802079971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_217
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 178
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419373479a4722d70800000000000000
+      internalID: 9016897675097225492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_218
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 201
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c02d99448178d60800000000000000
+      internalID: 7892303554907606070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_219
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 201
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856187dfb0ea95d20800000000000000
+      internalID: 3267834371154384472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_220
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 171
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79532ce518330e5f0800000000000000
+      internalID: -729526508900436585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_221
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 119
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d0c5a42b957fd20800000000000000
+      internalID: 3312214673240886581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_222
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 171
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c2d5758328f0a10800000000000000
+      internalID: 1877862748132289691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_223
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 119
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab850390ce4ea6c0800000000000000
+      internalID: -4130277219244864606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_224
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 171
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a7ae900b32499d0800000000000000
+      internalID: -2768548631938434524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_225
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 119
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fceb7f54d04140ff0800000000000000
+      internalID: -70909646890090801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_226
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 171
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec878a67015820d0800000000000000
+      internalID: -3447416422458225437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_227
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 119
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1ed85782580a240800000000000000
+      internalID: 4800983611594367446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_228
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 171
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d3c8bfee396e350800000000000000
+      internalID: 6045682204423240982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_229
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 119
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f13fa9cbd3b7e90800000000000000
+      internalID: -7026954913318756454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_230
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 171
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd36fbc8a6cf92010800000000000000
+      internalID: 1164739513210069980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_231
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 119
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd465f92974db9e20800000000000000
+      internalID: 3358511563994916060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_232
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 140
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7cd1b2e5fad4390800000000000000
+      internalID: -7832411357942265927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_233
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 140
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95042c4145b01ed60800000000000000
+      internalID: 7917622075647475801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_234
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 139
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b6d33adf921ec80800000000000000
+      internalID: -8295302869297566877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_235
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 112
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d776ce39fba072bf0800000000000000
+      internalID: -349298628161149059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_236
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 60
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc95d2e48f7ac9410800000000000000
+      internalID: 1485246662030744015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_237
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3635989f3655951d0800000000000000
+      internalID: -3361561758978714781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_238
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 60
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a7bb2aa04388530800000000000000
+      internalID: 3857390301127342690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_239
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 112
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc17741b26fc3a180800000000000000
+      internalID: -9105205998825016881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_240
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 60
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfba71736b0d84b40800000000000000
+      internalID: 5424815232194685948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_241
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4e17babbe1b2760800000000000000
+      internalID: 7434069401289221347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_242
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 60
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ede4d9adbf76ed30800000000000000
+      internalID: 4460392933531905512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_243
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 112
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ba25e53289b4160800000000000000
+      internalID: 7010864522606062456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_244
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 60
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0620019d47e8cf40800000000000000
+      internalID: 5749099244669642252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_245
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fc70cee46166250800000000000000
+      internalID: 5937457686957772552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_246
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 60
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6206e1a050a7233c0800000000000000
+      internalID: -4381305325414883290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_247
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 80
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fb9baa298c5afa0800000000000000
+      internalID: -5790001213659824378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_248
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 80
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c35a087ba4aedf0800000000000000
+      internalID: -150225485565707180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_249
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 80
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cd4ca93d39f80a0800000000000000
+      internalID: -6877115568927482730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_250
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 53
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55083d166ec5c0b30800000000000000
+      internalID: 4254877892511760469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_251
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17b8bdfaf317ef10800000000000000
+      internalID: 2298828103515420446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_252
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 46
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab198a7b9cd6f97d0800000000000000
+      internalID: -2909486121120919110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_253
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 46
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a3df2bc80554420800000000000000
+      internalID: 2613583723987024535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_254
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 46
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b512dcbc5b9bda0800000000000000
+      internalID: -5928507547532043392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_255
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 46
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe67a0c339fd91f50800000000000000
+      internalID: 6852754131481425647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_256
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 46
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d268e459d9b2be4c0800000000000000
+      internalID: -4257261066933860819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_257
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 46
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6445956663e4c550800000000000000
+      internalID: 6180314617589613675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_258
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8300949d186c0650800000000000000
+      internalID: 6200445263238136718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_259
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ea207d09c19b5a0800000000000000
+      internalID: -6505136778351825329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_260
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 53
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee140bf2cd5d4380800000000000000
+      internalID: -8985422589517881617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_261
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b401f8a4a7e2f40800000000000000
+      internalID: 5705632238571375463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_262
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841c9004a743194e0800000000000000
+      internalID: -1976741061773901496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_263
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdb54396f2fb31d0800000000000000
+      internalID: -3369832755309986319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_264
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 53
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac960aed59519760800000000000000
+      internalID: 7462844317422754984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_265
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31aa467397395760800000000000000
+      internalID: 7447044565318148412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_266
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc9d91f33dce3d00800000000000000
+      internalID: 954425794029788401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_267
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a75c8893f0b83aa0800000000000000
+      internalID: -6180995928283129944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_268
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 22
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07619bddc914f980800000000000000
+      internalID: -8506145424253294837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_269
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 22
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285a9a1f8a464be50800000000000000
+      internalID: 6824190012144854402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On the road PART 1_270
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 22
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd752a8264f732a0800000000000000
+      internalID: -6757664011784454671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      On the road PART 1_0: 7419942386258570011
+      On the road PART 1_1: -3642504954825932818
+      On the road PART 1_10: -6788028935886118830
+      On the road PART 1_100: -2316879589808109669
+      On the road PART 1_101: 2305568656149390869
+      On the road PART 1_102: -8583051436967624201
+      On the road PART 1_103: 5707125923323122113
+      On the road PART 1_104: 8126745959129827530
+      On the road PART 1_105: -6050240507965513343
+      On the road PART 1_106: 4238504982461306548
+      On the road PART 1_107: -5035116318710359777
+      On the road PART 1_108: 2265866648532855605
+      On the road PART 1_109: 1869574898791576771
+      On the road PART 1_11: -3844435109484383351
+      On the road PART 1_110: -4307224801758374960
+      On the road PART 1_111: -7128114830042903600
+      On the road PART 1_112: -1227627955060037000
+      On the road PART 1_113: 2550178090319921473
+      On the road PART 1_114: 1847035525051364769
+      On the road PART 1_115: 317135940214566409
+      On the road PART 1_116: 124101569070768006
+      On the road PART 1_117: -5017337496083276971
+      On the road PART 1_118: 2821111437310034401
+      On the road PART 1_119: -3351959628636664499
+      On the road PART 1_12: -2479971709312622002
+      On the road PART 1_120: -5239723425747181915
+      On the road PART 1_121: -1824605163028668483
+      On the road PART 1_122: 2987109492738871690
+      On the road PART 1_123: 4036094245465582148
+      On the road PART 1_124: -4014208845121620690
+      On the road PART 1_125: 6203067072402441019
+      On the road PART 1_126: -5927242095928275570
+      On the road PART 1_127: -4390176943664198902
+      On the road PART 1_128: 2283619674657326687
+      On the road PART 1_129: -2674483411727091778
+      On the road PART 1_13: 2404858938946263264
+      On the road PART 1_130: -3001003069834979658
+      On the road PART 1_131: 7141898116854751053
+      On the road PART 1_132: 6808229171742405739
+      On the road PART 1_133: 8603368073978132715
+      On the road PART 1_134: 7995695442065452898
+      On the road PART 1_135: -7436069189567496179
+      On the road PART 1_136: -3692577196338703218
+      On the road PART 1_137: -2104750820572533025
+      On the road PART 1_138: -792267672329844673
+      On the road PART 1_139: -1831117388490385107
+      On the road PART 1_14: 8937217139199845268
+      On the road PART 1_140: -2598763886183279019
+      On the road PART 1_141: -3356976138131949458
+      On the road PART 1_142: -5910375453442979172
+      On the road PART 1_143: 593334464066937202
+      On the road PART 1_144: 3981549514046515558
+      On the road PART 1_145: 2368586507746685821
+      On the road PART 1_146: 8844743304570774289
+      On the road PART 1_147: 5082892470570021324
+      On the road PART 1_148: -7984605964979754280
+      On the road PART 1_149: 4751075323914605565
+      On the road PART 1_15: 8572891789522793768
+      On the road PART 1_150: -1704783455533317708
+      On the road PART 1_151: -6955403477921601502
+      On the road PART 1_152: -4922695326487909189
+      On the road PART 1_153: -3241115975262958313
+      On the road PART 1_154: -943779916675446996
+      On the road PART 1_155: 6899055078257578090
+      On the road PART 1_156: -795373943541685041
+      On the road PART 1_157: 5347734602676345660
+      On the road PART 1_158: -5542800706230843902
+      On the road PART 1_159: -4901360984550661113
+      On the road PART 1_16: -2441134288168455745
+      On the road PART 1_160: -95178335907759415
+      On the road PART 1_161: 2034893587755744125
+      On the road PART 1_162: -6448193758654231838
+      On the road PART 1_163: -6867461800457051804
+      On the road PART 1_164: -1105100097850687348
+      On the road PART 1_165: 1310787066864656807
+      On the road PART 1_166: 8036610114893736114
+      On the road PART 1_167: 5125203146575583726
+      On the road PART 1_168: -546924848329793542
+      On the road PART 1_169: -5357107900870130627
+      On the road PART 1_17: -2617681472258590283
+      On the road PART 1_170: 306610322878414946
+      On the road PART 1_171: -7851868388702796975
+      On the road PART 1_172: -9098379235649194837
+      On the road PART 1_173: 4007573356779421950
+      On the road PART 1_174: 8625955009656379235
+      On the road PART 1_175: -3201151515682672418
+      On the road PART 1_176: 6336658459791600048
+      On the road PART 1_177: 7406224354318356842
+      On the road PART 1_178: 6687510036876587314
+      On the road PART 1_179: -5847255569869713469
+      On the road PART 1_18: 4699414231211455293
+      On the road PART 1_180: -3794227261580543498
+      On the road PART 1_181: 2767382640767781623
+      On the road PART 1_182: -7982260219170332158
+      On the road PART 1_183: 4129434628261797063
+      On the road PART 1_184: 8247431303292988386
+      On the road PART 1_185: 5793330545951283686
+      On the road PART 1_186: 6197215048364915854
+      On the road PART 1_187: -8170895805889129729
+      On the road PART 1_188: -3666342216686804041
+      On the road PART 1_189: -5588773168083298743
+      On the road PART 1_19: 8704109100336169521
+      On the road PART 1_190: 7713350865755669516
+      On the road PART 1_191: 7690617038550542035
+      On the road PART 1_192: -6667327765940299402
+      On the road PART 1_193: -7901417992605631413
+      On the road PART 1_194: -90887798048360986
+      On the road PART 1_195: 2284865445809465918
+      On the road PART 1_196: 4952210107157222907
+      On the road PART 1_197: -7851356891933066445
+      On the road PART 1_198: -2622727972131623204
+      On the road PART 1_199: 3660440811066343993
+      On the road PART 1_2: -6022817938303472053
+      On the road PART 1_20: -4056622989329983656
+      On the road PART 1_200: -2910221561277023325
+      On the road PART 1_201: 7814035499540024072
+      On the road PART 1_202: 1367813776961453234
+      On the road PART 1_203: 945943391726383591
+      On the road PART 1_204: -2099540694738491442
+      On the road PART 1_205: 3229352000352194706
+      On the road PART 1_206: 8475721100268982460
+      On the road PART 1_207: 1335337545093217876
+      On the road PART 1_208: -5621181268976426863
+      On the road PART 1_209: -4773646024687125760
+      On the road PART 1_21: 575366043283545448
+      On the road PART 1_210: 6617856553713806666
+      On the road PART 1_211: 3983870051361377675
+      On the road PART 1_212: -6233465277158192881
+      On the road PART 1_213: -6944416923694011632
+      On the road PART 1_214: 3185894777281603190
+      On the road PART 1_215: 6192185733420084572
+      On the road PART 1_216: -4227418560802079971
+      On the road PART 1_217: 9016897675097225492
+      On the road PART 1_218: 7892303554907606070
+      On the road PART 1_219: 3267834371154384472
+      On the road PART 1_22: -3344724500394604614
+      On the road PART 1_220: -729526508900436585
+      On the road PART 1_221: 3312214673240886581
+      On the road PART 1_222: 1877862748132289691
+      On the road PART 1_223: -4130277219244864606
+      On the road PART 1_224: -2768548631938434524
+      On the road PART 1_225: -70909646890090801
+      On the road PART 1_226: -3447416422458225437
+      On the road PART 1_227: 4800983611594367446
+      On the road PART 1_228: 6045682204423240982
+      On the road PART 1_229: -7026954913318756454
+      On the road PART 1_23: 2543836998262502722
+      On the road PART 1_230: 1164739513210069980
+      On the road PART 1_231: 3358511563994916060
+      On the road PART 1_232: -7832411357942265927
+      On the road PART 1_233: 7917622075647475801
+      On the road PART 1_234: -8295302869297566877
+      On the road PART 1_235: -349298628161149059
+      On the road PART 1_236: 1485246662030744015
+      On the road PART 1_237: -3361561758978714781
+      On the road PART 1_238: 3857390301127342690
+      On the road PART 1_239: -9105205998825016881
+      On the road PART 1_24: -1718634175396139334
+      On the road PART 1_240: 5424815232194685948
+      On the road PART 1_241: 7434069401289221347
+      On the road PART 1_242: 4460392933531905512
+      On the road PART 1_243: 7010864522606062456
+      On the road PART 1_244: 5749099244669642252
+      On the road PART 1_245: 5937457686957772552
+      On the road PART 1_246: -4381305325414883290
+      On the road PART 1_247: -5790001213659824378
+      On the road PART 1_248: -150225485565707180
+      On the road PART 1_249: -6877115568927482730
+      On the road PART 1_25: -6872821114721771428
+      On the road PART 1_250: 4254877892511760469
+      On the road PART 1_251: 2298828103515420446
+      On the road PART 1_252: -2909486121120919110
+      On the road PART 1_253: 2613583723987024535
+      On the road PART 1_254: -5928507547532043392
+      On the road PART 1_255: 6852754131481425647
+      On the road PART 1_256: -4257261066933860819
+      On the road PART 1_257: 6180314617589613675
+      On the road PART 1_258: 6200445263238136718
+      On the road PART 1_259: -6505136778351825329
+      On the road PART 1_26: -3597045195345823599
+      On the road PART 1_260: -8985422589517881617
+      On the road PART 1_261: 5705632238571375463
+      On the road PART 1_262: -1976741061773901496
+      On the road PART 1_263: -3369832755309986319
+      On the road PART 1_264: 7462844317422754984
+      On the road PART 1_265: 7447044565318148412
+      On the road PART 1_266: 954425794029788401
+      On the road PART 1_267: -6180995928283129944
+      On the road PART 1_268: -8506145424253294837
+      On the road PART 1_269: 6824190012144854402
+      On the road PART 1_27: -8654665489811203134
+      On the road PART 1_270: -6757664011784454671
+      On the road PART 1_28: -481586881697181409
+      On the road PART 1_29: -4815376106594679809
+      On the road PART 1_3: -6604522122299818292
+      On the road PART 1_30: 6589681983988267025
+      On the road PART 1_31: -8485906590325920232
+      On the road PART 1_32: 4545999157810872285
+      On the road PART 1_33: -2039294564985813652
+      On the road PART 1_34: 8689515465136850040
+      On the road PART 1_35: -625287768511012280
+      On the road PART 1_36: 8171256852499921017
+      On the road PART 1_37: 3440324149769880285
+      On the road PART 1_38: -3001876606366568528
+      On the road PART 1_39: -2475030661683142109
+      On the road PART 1_4: -2359103866639718361
+      On the road PART 1_40: 6767565526253364373
+      On the road PART 1_41: -2987320755192600198
+      On the road PART 1_42: 9051794775075097150
+      On the road PART 1_43: -7347874230090201570
+      On the road PART 1_44: 5103626795267946871
+      On the road PART 1_45: -3601357560040314969
+      On the road PART 1_46: 4825885902737107845
+      On the road PART 1_47: -6441167754622456425
+      On the road PART 1_48: 1359660105374785640
+      On the road PART 1_49: 1345022648477457393
+      On the road PART 1_5: -4762172982727098465
+      On the road PART 1_50: -7350426433601107584
+      On the road PART 1_51: 6556560518523824149
+      On the road PART 1_52: -5457848175731626431
+      On the road PART 1_53: -5802698735882817871
+      On the road PART 1_54: -1198006120702677558
+      On the road PART 1_55: -6034380291104963064
+      On the road PART 1_56: -8356182041901164666
+      On the road PART 1_57: -1906041397673308648
+      On the road PART 1_58: -3507316902125538880
+      On the road PART 1_59: -3020712896668591252
+      On the road PART 1_6: 8234670074034160817
+      On the road PART 1_60: 3973506096075151336
+      On the road PART 1_61: -5152910827668975686
+      On the road PART 1_62: -8324986530553862551
+      On the road PART 1_63: -7932747577488234789
+      On the road PART 1_64: 1276716355393872275
+      On the road PART 1_65: -6411044832872103196
+      On the road PART 1_66: -4423985235126138632
+      On the road PART 1_67: 2931994870753103702
+      On the road PART 1_68: -7252649973304993934
+      On the road PART 1_69: 7265548590900241973
+      On the road PART 1_7: 1772131359785594477
+      On the road PART 1_70: 6638758264137536440
+      On the road PART 1_71: 5173454855139255329
+      On the road PART 1_72: 24649456627238136
+      On the road PART 1_73: 6793436640869373970
+      On the road PART 1_74: -2196224176051696521
+      On the road PART 1_75: -6798492216786552054
+      On the road PART 1_76: 9049698064429141240
+      On the road PART 1_77: 5993260142852240318
+      On the road PART 1_78: -3185605959357730200
+      On the road PART 1_79: -8281781224179005110
+      On the road PART 1_8: 9046923163088526439
+      On the road PART 1_80: 7289606966541407499
+      On the road PART 1_81: -1173951625239602295
+      On the road PART 1_82: 713439091490229399
+      On the road PART 1_83: -2819837998940713680
+      On the road PART 1_84: 1748353657153048329
+      On the road PART 1_85: -8990626946309116827
+      On the road PART 1_86: 4468369939053102338
+      On the road PART 1_87: 3330556670520650363
+      On the road PART 1_88: -1365121044296175085
+      On the road PART 1_89: 2020385443390765351
+      On the road PART 1_9: -8120332252978302029
+      On the road PART 1_90: 1620339243317692600
+      On the road PART 1_91: -8535140005620707523
+      On the road PART 1_92: -5344996939855482342
+      On the road PART 1_93: -1395479886798409678
+      On the road PART 1_94: -4146470762011857566
+      On the road PART 1_95: -188985350289858528
+      On the road PART 1_96: 7848143349046903214
+      On the road PART 1_97: 8282068616724049715
+      On the road PART 1_98: -5850809763042236827
+      On the road PART 1_99: 9110847105065792364
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

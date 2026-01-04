@@ -1,0 +1,2704 @@
+fileFormatVersion: 2
+guid: 0c53b9fbe5389534583b13b2298a0ead
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8122256234953540473
+    second: EXP_0
+  - first:
+      213: 2518656005481763112
+    second: EXP_1
+  - first:
+      213: 8802214299836519180
+    second: EXP_2
+  - first:
+      213: 8297063182405138237
+    second: EXP_3
+  - first:
+      213: -6175428850302046880
+    second: EXP_4
+  - first:
+      213: -5987327791711525299
+    second: EXP_5
+  - first:
+      213: 3662161612888507001
+    second: EXP_6
+  - first:
+      213: -484746024115715878
+    second: EXP_7
+  - first:
+      213: 3825882362774738062
+    second: EXP_8
+  - first:
+      213: 2422816943690335748
+    second: EXP_9
+  - first:
+      213: 4856610074835065764
+    second: EXP_10
+  - first:
+      213: -1933822511778783178
+    second: EXP_11
+  - first:
+      213: -8392707685506543156
+    second: EXP_12
+  - first:
+      213: -5593511566976822591
+    second: EXP_13
+  - first:
+      213: 4009830530052967630
+    second: EXP_14
+  - first:
+      213: -7713654647047488353
+    second: EXP_15
+  - first:
+      213: 6471024408689371910
+    second: EXP_16
+  - first:
+      213: 1548179403225626874
+    second: EXP_17
+  - first:
+      213: 1317886936210145489
+    second: EXP_18
+  - first:
+      213: -2157776825172650807
+    second: EXP_19
+  - first:
+      213: 444142114191075744
+    second: EXP_20
+  - first:
+      213: -1003443852342420235
+    second: EXP_21
+  - first:
+      213: -2519920002447343945
+    second: EXP_22
+  - first:
+      213: 4244144409457179633
+    second: EXP_23
+  - first:
+      213: 713338332659151406
+    second: EXP_24
+  - first:
+      213: -1082751854379343000
+    second: EXP_25
+  - first:
+      213: -1141748605221065093
+    second: EXP_26
+  - first:
+      213: 2363855862576456028
+    second: EXP_27
+  - first:
+      213: -675812718340314500
+    second: EXP_28
+  - first:
+      213: -4186183744655824572
+    second: EXP_29
+  - first:
+      213: -7635200602856385815
+    second: EXP_30
+  - first:
+      213: -5158430712984471832
+    second: EXP_31
+  - first:
+      213: -7750055148163363344
+    second: EXP_32
+  - first:
+      213: -3361079248645134813
+    second: EXP_33
+  - first:
+      213: -6001564602232589636
+    second: EXP_34
+  - first:
+      213: 9129884813175522105
+    second: EXP_35
+  - first:
+      213: -6785004719032058751
+    second: EXP_36
+  - first:
+      213: 2153654902548127605
+    second: EXP_37
+  - first:
+      213: 2227156725053470127
+    second: EXP_38
+  - first:
+      213: -6705758961886688370
+    second: EXP_39
+  - first:
+      213: -8654879613071662540
+    second: EXP_40
+  - first:
+      213: 5597755084169926825
+    second: EXP_41
+  - first:
+      213: 7302361671678712528
+    second: EXP_42
+  - first:
+      213: -237285900330600105
+    second: EXP_43
+  - first:
+      213: -2190312749252841908
+    second: EXP_44
+  - first:
+      213: -8063091960421659558
+    second: EXP_45
+  - first:
+      213: -8198671104480846838
+    second: EXP_46
+  - first:
+      213: -2186028914492984039
+    second: EXP_47
+  - first:
+      213: -929511991027907521
+    second: EXP_48
+  - first:
+      213: 3752017333488003519
+    second: EXP_49
+  - first:
+      213: -2366364154080786925
+    second: EXP_50
+  - first:
+      213: -949067222768589286
+    second: EXP_51
+  - first:
+      213: 8065362638850694362
+    second: EXP_52
+  - first:
+      213: 7895564234668005155
+    second: EXP_53
+  - first:
+      213: -4634486833390318668
+    second: EXP_54
+  - first:
+      213: -739353311900647528
+    second: EXP_55
+  - first:
+      213: 6698206358480229500
+    second: EXP_56
+  - first:
+      213: -8824019919666227458
+    second: EXP_57
+  - first:
+      213: -7933604655977275496
+    second: EXP_58
+  - first:
+      213: -629870790880489493
+    second: EXP_59
+  - first:
+      213: -3947054187260870576
+    second: EXP_60
+  - first:
+      213: -408454259359980346
+    second: EXP_61
+  - first:
+      213: 7821955206079839460
+    second: EXP_62
+  - first:
+      213: 5564125390195445385
+    second: EXP_63
+  - first:
+      213: -869649631529283642
+    second: EXP_64
+  - first:
+      213: -1293840665714194629
+    second: EXP_65
+  - first:
+      213: 2577890176658313155
+    second: EXP_66
+  - first:
+      213: 2709245873100909345
+    second: EXP_67
+  - first:
+      213: 3231038569891718378
+    second: EXP_68
+  - first:
+      213: -6617700558798716349
+    second: EXP_69
+  - first:
+      213: -3994101499006476378
+    second: EXP_70
+  - first:
+      213: 4692261773839743397
+    second: EXP_71
+  - first:
+      213: -7288904576838400075
+    second: EXP_72
+  - first:
+      213: -8177199163857463845
+    second: EXP_73
+  - first:
+      213: 6261561338348959631
+    second: EXP_74
+  - first:
+      213: 8492346271334200508
+    second: EXP_75
+  - first:
+      213: -4288957078991708876
+    second: EXP_76
+  - first:
+      213: -4258730448170124034
+    second: EXP_77
+  - first:
+      213: 1681923412965928712
+    second: EXP_78
+  - first:
+      213: -3336599726555438583
+    second: EXP_79
+  - first:
+      213: -7736770068741597007
+    second: EXP_80
+  - first:
+      213: -6906275056486575956
+    second: EXP_81
+  - first:
+      213: -3291673085259333962
+    second: EXP_82
+  - first:
+      213: 8934680596490257279
+    second: EXP_83
+  - first:
+      213: 6192532187657338935
+    second: EXP_84
+  - first:
+      213: -6581812445845494539
+    second: EXP_85
+  - first:
+      213: -2146257022117463599
+    second: EXP_86
+  - first:
+      213: -6083234731030787256
+    second: EXP_87
+  - first:
+      213: 9109589135861955950
+    second: EXP_88
+  - first:
+      213: -4278598280098582089
+    second: EXP_89
+  - first:
+      213: 221534960923991555
+    second: EXP_90
+  - first:
+      213: -9188099517004305397
+    second: EXP_91
+  - first:
+      213: -7036212684713739369
+    second: EXP_92
+  - first:
+      213: 4627969770000890551
+    second: EXP_93
+  - first:
+      213: 8323586243489131812
+    second: EXP_94
+  - first:
+      213: -2700715963064933890
+    second: EXP_95
+  - first:
+      213: 8270755316305815847
+    second: EXP_96
+  - first:
+      213: -1329662891582714074
+    second: EXP_97
+  - first:
+      213: -5019432599402480491
+    second: EXP_98
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EXP_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 181
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c74e4ecf2f74f80800000000000000
+      internalID: -8122256234953540473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 182
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8211526ea4014f220800000000000000
+      internalID: 2518656005481763112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 183
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c039e92054fb72a70800000000000000
+      internalID: 8802214299836519180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 184
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37fa323107152370800000000000000
+      internalID: 8297063182405138237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 185
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d2c02fd287c4aa0800000000000000
+      internalID: -6175428850302046880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 186
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46e53d781db8eca0800000000000000
+      internalID: -5987327791711525299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 187
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9728a4e759c92d230800000000000000
+      internalID: 3662161612888507001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_7
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 188
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0cc423f06d549f0800000000000000
+      internalID: -484746024115715878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 189
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84de911db3481530800000000000000
+      internalID: 3825882362774738062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_9
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 190
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406c5747c239f9120800000000000000
+      internalID: 2422816943690335748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_10
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 191
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab9023b125266340800000000000000
+      internalID: 4856610074835065764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 159
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630a5cedbaea925e0800000000000000
+      internalID: -1933822511778783178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 160
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc111b593dc178b80800000000000000
+      internalID: -8392707685506543156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_13
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 161
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2de439ddadf52b0800000000000000
+      internalID: -5593511566976822591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_14
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 162
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccc2514f97c5a730800000000000000
+      internalID: 4009830530052967630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_15
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c71ba97f793f490800000000000000
+      internalID: -7713654647047488353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 164
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60befcc2a62bdc950800000000000000
+      internalID: 6471024408689371910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_17
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 165
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8f6d1f6fc3c7510800000000000000
+      internalID: 1548179403225626874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_18
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 166
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d00fee9f231a4210800000000000000
+      internalID: 1317886936210145489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 167
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4930fe8690e02e0800000000000000
+      internalID: -2157776825172650807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_20
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 168
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9662256e8e92600800000000000000
+      internalID: 444142114191075744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_21
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 169
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc941df12d0312f0800000000000000
+      internalID: -1003443852342420235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 137
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be79bfdb12770dd0800000000000000
+      internalID: -2519920002447343945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 138
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbb72d9ada36ea30800000000000000
+      internalID: 4244144409457179633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_24
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 139
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2271d22f6946e900800000000000000
+      internalID: 713338332659151406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_25
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 140
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863e2d3dcea49f0f0800000000000000
+      internalID: -1082751854379343000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_26
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 141
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e200b51b1b720f0800000000000000
+      internalID: -1141748605221065093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_27
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 142
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51281df16a1ec020800000000000000
+      internalID: 2363855862576456028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_28
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 143
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a62acc9e70f96f0800000000000000
+      internalID: -675812718340314500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_29
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 144
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44966474010b7e5c0800000000000000
+      internalID: -4186183744655824572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_30
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 145
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e295e531815a0690800000000000000
+      internalID: -7635200602856385815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_31
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 146
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6781ad8929968b0800000000000000
+      internalID: -5158430712984471832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_32
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 147
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd090087e5427490800000000000000
+      internalID: -7750055148163363344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 115
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326e19a2b3c0b51d0800000000000000
+      internalID: -3361079248645134813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_34
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 116
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb23e5bbac826bca0800000000000000
+      internalID: -6001564602232589636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_35
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 117
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9338f898dddd3be70800000000000000
+      internalID: 9129884813175522105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_36
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 118
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cbeb21822d6d1a0800000000000000
+      internalID: -6785004719032058751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_37
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 119
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fd82b29b153ed10800000000000000
+      internalID: 2153654902548127605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_38
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 120
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa53fefcd3378ee10800000000000000
+      internalID: 2227156725053470127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_39
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 121
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b0a57b0cb50f2a0800000000000000
+      internalID: -6705758961886688370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_40
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 122
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432e711f8d0b3e780800000000000000
+      internalID: -8654879613071662540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_41
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 123
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8d59347983fad40800000000000000
+      internalID: 5597755084169926825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_42
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 124
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da56d53043375560800000000000000
+      internalID: 7302361671678712528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_43
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 125
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759f5981bbdf4bcf0800000000000000
+      internalID: -237285900330600105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 93
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e66c9c8227a91e0800000000000000
+      internalID: -2190312749252841908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_45
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 94
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c42c305942a1090800000000000000
+      internalID: -8063091960421659558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_46
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 95
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cd823a118783e80800000000000000
+      internalID: -8198671104480846838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_47
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 96
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915b9eac84aa9a1e0800000000000000
+      internalID: -2186028914492984039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_48
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 97
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34c058d4c5b913f0800000000000000
+      internalID: -929511991027907521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_49
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 98
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb929a1c2e7d11430800000000000000
+      internalID: 3752017333488003519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_50
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 99
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3160cc2e65cf82fd0800000000000000
+      internalID: -2366364154080786925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_51
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 100
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1669e6a36c34d2f0800000000000000
+      internalID: -949067222768589286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_52
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 101
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc1761869cedef60800000000000000
+      internalID: 8065362638850694362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_53
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 102
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3275aa4c6dda29d60800000000000000
+      internalID: 7895564234668005155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_54
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 103
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb8b8397cefeafb0800000000000000
+      internalID: -4634486833390318668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_55
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 71
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f37a0841a4db5f0800000000000000
+      internalID: -739353311900647528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_56
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 72
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c741a75c13fc4fc50800000000000000
+      internalID: 6698206358480229500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_57
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 73
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6d25d72a8ca8580800000000000000
+      internalID: -8824019919666227458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_58
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 74
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fd614799c26e190800000000000000
+      internalID: -7933604655977275496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_59
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 75
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef8c275adf3247f0800000000000000
+      internalID: -629870790880489493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_60
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050091b012f3939c0800000000000000
+      internalID: -3947054187260870576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_61
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 77
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c46ad3e301e45af0800000000000000
+      internalID: -408454259359980346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_62
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 78
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecf76341da2d8c60800000000000000
+      internalID: 7821955206079839460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_63
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 79
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ec458ff8eb73d40800000000000000
+      internalID: 5564125390195445385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_64
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 80
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfc5a984426ee3f0800000000000000
+      internalID: -869649631529283642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_65
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 81
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37862405ca5b0ee0800000000000000
+      internalID: -1293840665714194629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_66
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 49
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf00b9157186c320800000000000000
+      internalID: 2577890176658313155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_67
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 50
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b6f5374cc299520800000000000000
+      internalID: 2709245873100909345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_68
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 51
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae46bf5e574f6dc20800000000000000
+      internalID: 3231038569891718378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_69
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 52
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34206e267643924a0800000000000000
+      internalID: -6617700558798716349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_70
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 53
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af1dda29d91298c0800000000000000
+      internalID: -3994101499006476378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_71
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 54
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9bcdef8334e1140800000000000000
+      internalID: 4692261773839743397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_72
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 55
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b704d7d7eb98da90800000000000000
+      internalID: -7288904576838400075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_73
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 56
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd597a46fa0c48e80800000000000000
+      internalID: -8177199163857463845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_74
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 57
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87fb9facd885e650800000000000000
+      internalID: 6261561338348959631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_75
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 58
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4fc7c70ffdad570800000000000000
+      internalID: 8492346271334200508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_76
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 59
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d5dc1b2409a74c0800000000000000
+      internalID: -4288957078991708876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_77
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 27
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efcfdaa9833f5e4c0800000000000000
+      internalID: -4258730448170124034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 28
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f2f31de64675710800000000000000
+      internalID: 1681923412965928712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_79
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 29
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9026ffc0a3402b1d0800000000000000
+      internalID: -3336599726555438583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_80
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 30
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b858c71d9871a490800000000000000
+      internalID: -7736770068741597007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_81
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 31
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca01af85d6bf720a0800000000000000
+      internalID: -6906275056486575956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_82
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 32
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be376cd4c0a152d0800000000000000
+      internalID: -3291673085259333962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_83
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 33
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73806f1aac5efb70800000000000000
+      internalID: 8934680596490257279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_84
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 34
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7300d79173b40f550800000000000000
+      internalID: 6192532187657338935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_85
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 35
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f46223d374b8a4a0800000000000000
+      internalID: -6581812445845494539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_86
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 36
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d930081c96f632e0800000000000000
+      internalID: -2146257022117463599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_87
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 37
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b47931e32049ba0800000000000000
+      internalID: -6083234731030787256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_88
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d3fcced03cb6e70800000000000000
+      internalID: 9109589135861955950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_89
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 6
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b17022888d5f94c0800000000000000
+      internalID: -4278598280098582089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_90
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 7
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e543b8fdc031300800000000000000
+      internalID: 221534960923991555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_91
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 8
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c25008b205d7080800000000000000
+      internalID: -9188099517004305397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_92
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 9
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b3a8bb7d95a5e90800000000000000
+      internalID: -7036212684713739369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_93
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 10
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba362c5cf9d93040800000000000000
+      internalID: 4627969770000890551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_94
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 11
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d6f749691538370800000000000000
+      internalID: 8323586243489131812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_95
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 12
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1a94ef321258ad0800000000000000
+      internalID: -2700715963064933890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_96
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 13
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729e49cc320a7c270800000000000000
+      internalID: 8270755316305815847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_97
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 14
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f813c15a61c8de0800000000000000
+      internalID: -1329662891582714074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXP_98
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 15
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c799a15a4675ab0800000000000000
+      internalID: -5019432599402480491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EXP_0: -8122256234953540473
+      EXP_1: 2518656005481763112
+      EXP_10: 4856610074835065764
+      EXP_11: -1933822511778783178
+      EXP_12: -8392707685506543156
+      EXP_13: -5593511566976822591
+      EXP_14: 4009830530052967630
+      EXP_15: -7713654647047488353
+      EXP_16: 6471024408689371910
+      EXP_17: 1548179403225626874
+      EXP_18: 1317886936210145489
+      EXP_19: -2157776825172650807
+      EXP_2: 8802214299836519180
+      EXP_20: 444142114191075744
+      EXP_21: -1003443852342420235
+      EXP_22: -2519920002447343945
+      EXP_23: 4244144409457179633
+      EXP_24: 713338332659151406
+      EXP_25: -1082751854379343000
+      EXP_26: -1141748605221065093
+      EXP_27: 2363855862576456028
+      EXP_28: -675812718340314500
+      EXP_29: -4186183744655824572
+      EXP_3: 8297063182405138237
+      EXP_30: -7635200602856385815
+      EXP_31: -5158430712984471832
+      EXP_32: -7750055148163363344
+      EXP_33: -3361079248645134813
+      EXP_34: -6001564602232589636
+      EXP_35: 9129884813175522105
+      EXP_36: -6785004719032058751
+      EXP_37: 2153654902548127605
+      EXP_38: 2227156725053470127
+      EXP_39: -6705758961886688370
+      EXP_4: -6175428850302046880
+      EXP_40: -8654879613071662540
+      EXP_41: 5597755084169926825
+      EXP_42: 7302361671678712528
+      EXP_43: -237285900330600105
+      EXP_44: -2190312749252841908
+      EXP_45: -8063091960421659558
+      EXP_46: -8198671104480846838
+      EXP_47: -2186028914492984039
+      EXP_48: -929511991027907521
+      EXP_49: 3752017333488003519
+      EXP_5: -5987327791711525299
+      EXP_50: -2366364154080786925
+      EXP_51: -949067222768589286
+      EXP_52: 8065362638850694362
+      EXP_53: 7895564234668005155
+      EXP_54: -4634486833390318668
+      EXP_55: -739353311900647528
+      EXP_56: 6698206358480229500
+      EXP_57: -8824019919666227458
+      EXP_58: -7933604655977275496
+      EXP_59: -629870790880489493
+      EXP_6: 3662161612888507001
+      EXP_60: -3947054187260870576
+      EXP_61: -408454259359980346
+      EXP_62: 7821955206079839460
+      EXP_63: 5564125390195445385
+      EXP_64: -869649631529283642
+      EXP_65: -1293840665714194629
+      EXP_66: 2577890176658313155
+      EXP_67: 2709245873100909345
+      EXP_68: 3231038569891718378
+      EXP_69: -6617700558798716349
+      EXP_7: -484746024115715878
+      EXP_70: -3994101499006476378
+      EXP_71: 4692261773839743397
+      EXP_72: -7288904576838400075
+      EXP_73: -8177199163857463845
+      EXP_74: 6261561338348959631
+      EXP_75: 8492346271334200508
+      EXP_76: -4288957078991708876
+      EXP_77: -4258730448170124034
+      EXP_78: 1681923412965928712
+      EXP_79: -3336599726555438583
+      EXP_8: 3825882362774738062
+      EXP_80: -7736770068741597007
+      EXP_81: -6906275056486575956
+      EXP_82: -3291673085259333962
+      EXP_83: 8934680596490257279
+      EXP_84: 6192532187657338935
+      EXP_85: -6581812445845494539
+      EXP_86: -2146257022117463599
+      EXP_87: -6083234731030787256
+      EXP_88: 9109589135861955950
+      EXP_89: -4278598280098582089
+      EXP_9: 2422816943690335748
+      EXP_90: 221534960923991555
+      EXP_91: -9188099517004305397
+      EXP_92: -7036212684713739369
+      EXP_93: 4627969770000890551
+      EXP_94: 8323586243489131812
+      EXP_95: -2700715963064933890
+      EXP_96: 8270755316305815847
+      EXP_97: -1329662891582714074
+      EXP_98: -5019432599402480491
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

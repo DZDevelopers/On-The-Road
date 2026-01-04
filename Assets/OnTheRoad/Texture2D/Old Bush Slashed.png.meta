@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: c40e84c612586804b9599ce9c37b25ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4676041351454859361
+    second: Old Bush Slashed_0
+  - first:
+      213: -1889595473685813639
+    second: Old Bush Slashed_1
+  - first:
+      213: -7728466823703336251
+    second: Old Bush Slashed_2
+  - first:
+      213: 4764019271850945923
+    second: Old Bush Slashed_3
+  - first:
+      213: 5293804027138147135
+    second: Old Bush Slashed_4
+  - first:
+      213: -2086855102463437831
+    second: Old Bush Slashed_5
+  - first:
+      213: 1387740233268723073
+    second: Old Bush Slashed_6
+  - first:
+      213: -4724240478191131333
+    second: Old Bush Slashed_7
+  - first:
+      213: 8736873301992846420
+    second: Old Bush Slashed_8
+  - first:
+      213: -8860880498451580280
+    second: Old Bush Slashed_9
+  - first:
+      213: 1276656194373471452
+    second: Old Bush Slashed_10
+  - first:
+      213: 4000909490082194215
+    second: Old Bush Slashed_11
+  - first:
+      213: 3325050822664268006
+    second: Old Bush Slashed_12
+  - first:
+      213: -1189815978410940637
+    second: Old Bush Slashed_13
+  - first:
+      213: 3615501395684099420
+    second: Old Bush Slashed_14
+  - first:
+      213: -3931738525910497991
+    second: Old Bush Slashed_15
+  - first:
+      213: -5061178541763318524
+    second: Old Bush Slashed_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Old Bush Slashed_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fde736a2d5b1fb0800000000000000
+      internalID: -4676041351454859361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Bush Slashed_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 11
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97665cd9deec6c5e0800000000000000
+      internalID: -1889595473685813639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Bush Slashed_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 12
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca65cafe58feb490800000000000000
+      internalID: -7728466823703336251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Bush Slashed_3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 12
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d6ac179423d1240800000000000000
+      internalID: 4764019271850945923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Bush Slashed_4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 13
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f330a1407be577940800000000000000
+      internalID: 5293804027138147135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Bush Slashed_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 13
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f394f747500a03e0800000000000000
+      internalID: -2086855102463437831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Bush Slashed_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 14
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18dff7cb36e324310800000000000000
+      internalID: 1387740233268723073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Bush Slashed_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 13
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3565efa050207eb0800000000000000
+      internalID: -4724240478191131333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Bush Slashed_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 15
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454b0ec6afb9f3970800000000000000
+      internalID: 8736873301992846420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Bush Slashed_9
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 4
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a7b943224d70580800000000000000
+      internalID: -8860880498451580280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Bush Slashed_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 5
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdccee57b0897b110800000000000000
+      internalID: 1276656194373471452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Bush Slashed_11
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 3
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723a6d6cbf5168730800000000000000
+      internalID: 4000909490082194215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Bush Slashed_12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 4
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e826093b14f42e20800000000000000
+      internalID: 3325050822664268006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Bush Slashed_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3276bbaebacec7fe0800000000000000
+      internalID: -1189815978410940637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Bush Slashed_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 3
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c550ea61d57dc2230800000000000000
+      internalID: 3615501395684099420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Bush Slashed_15
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935036554a8af69c0800000000000000
+      internalID: -3931738525910497991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Bush Slashed_16
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 3
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d2e597ee413c9b0800000000000000
+      internalID: -5061178541763318524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Old Bush Slashed_0: -4676041351454859361
+      Old Bush Slashed_1: -1889595473685813639
+      Old Bush Slashed_10: 1276656194373471452
+      Old Bush Slashed_11: 4000909490082194215
+      Old Bush Slashed_12: 3325050822664268006
+      Old Bush Slashed_13: -1189815978410940637
+      Old Bush Slashed_14: 3615501395684099420
+      Old Bush Slashed_15: -3931738525910497991
+      Old Bush Slashed_16: -5061178541763318524
+      Old Bush Slashed_2: -7728466823703336251
+      Old Bush Slashed_3: 4764019271850945923
+      Old Bush Slashed_4: 5293804027138147135
+      Old Bush Slashed_5: -2086855102463437831
+      Old Bush Slashed_6: 1387740233268723073
+      Old Bush Slashed_7: -4724240478191131333
+      Old Bush Slashed_8: 8736873301992846420
+      Old Bush Slashed_9: -8860880498451580280
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
