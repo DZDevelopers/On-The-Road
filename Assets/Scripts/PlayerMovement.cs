@@ -1,56 +1,80 @@
-using System;
-using System.Runtime.CompilerServices;
-using JetBrains.Annotations;
-using UnityEditor.Callbacks;
 using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
     private Rigidbody2D _rb;
-    private float MoveX;
-    private float MoveY;
-    [SerializeField] private float movespeed = 5f;
-    public Sprite upSprite;
-    public Sprite downSprite;
-    public Sprite leftSprite;
-    public Sprite rightSprite;
-    private SpriteRenderer spriteRenderer;
-    
+    private Animator animator;
+
+    private float moveX;
+    private float moveY;
+
+    [SerializeField] private float moveSpeed = 5f;
+
+    // Keeps track of last direction for idle animation
+    private Vector2 lastMoveDir = Vector2.down;
+
     void Awake()
     {
         _rb = GetComponent<Rigidbody2D>();
-        spriteRenderer = GetComponent<SpriteRenderer>();
-    }
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
+        animator = GetComponent<Animator>();
     }
 
-    // Update is called once per frame
     void Update()
     {
-        MoveX = Input.GetAxis("Horizontal");
-        MoveY = Input.GetAxis("Vertical");
-        if (MoveY > 0)
+        moveX = Input.GetAxisRaw("Horizontal");
+        moveY = Input.GetAxisRaw("Vertical");
+
+        Vector2 moveDir = new Vector2(moveX, moveY);
+
+        if (moveDir != Vector2.zero)
         {
-            spriteRenderer.sprite = upSprite;
+            lastMoveDir = moveDir;
+            PlayWalkAnimation(moveDir);
         }
-        else if (MoveY < 0)
+        else
         {
-            spriteRenderer.sprite = downSprite;
-        }
-        else if (MoveX < 0)
-        {
-            spriteRenderer.sprite = leftSprite;
-        }
-        else if (MoveX > 0)
-        {
-            spriteRenderer.sprite = rightSprite;
+            PlayIdleAnimation();
         }
     }
+
     void FixedUpdate()
     {
-        _rb.linearVelocity = new Vector2 (MoveX * movespeed,MoveY * movespeed);
+        _rb.linearVelocity = new Vector2(moveX, moveY).normalized * moveSpeed;
+    }
+
+    void PlayWalkAnimation(Vector2 dir)
+    {
+        if (Mathf.Abs(dir.x) > Mathf.Abs(dir.y))
+        {
+            if (dir.x > 0)
+                animator.Play("Player_RIGHT");
+            else
+                animator.Play("PLAYER_LEFT");
+        }
+        else
+        {
+            if (dir.y > 0)
+                animator.Play("PLAYER_UP");
+            else
+                animator.Play("Player_DOWN");
+        }
+    }
+
+    void PlayIdleAnimation()
+    {
+        if (Mathf.Abs(lastMoveDir.x) > Mathf.Abs(lastMoveDir.y))
+        {
+            if (lastMoveDir.x > 0)
+                animator.Play("Player_IDLE_Right");
+            else
+                animator.Play("Player_IDLE_Left");
+        }
+        else
+        {
+            if (lastMoveDir.y > 0)
+                animator.Play("PLAYER_IDLE_Up");
+            else
+                animator.Play("PLAYER_IDLE_Down");
+        }
     }
 }
