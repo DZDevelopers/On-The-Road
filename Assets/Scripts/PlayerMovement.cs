@@ -9,6 +9,7 @@ public class PlayerMovement : MonoBehaviour
     private float moveY;
 
     [SerializeField] private float moveSpeed = 5f;
+    string currentAnim;
 
     // Keeps track of last direction for idle animation
     private Vector2 lastMoveDir = Vector2.down;
@@ -81,4 +82,10 @@ public class PlayerMovement : MonoBehaviour
             }
         }
     }
+    void Play(string anim)
+{
+    if (currentAnim == anim) return;
+    currentAnim = anim;
+    animator.Play(anim, 0);
+}
 }
