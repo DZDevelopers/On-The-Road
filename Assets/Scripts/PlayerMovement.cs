@@ -47,16 +47,16 @@ public class PlayerMovement : MonoBehaviour
         if (Mathf.Abs(dir.x) > Mathf.Abs(dir.y))
         {
             if (dir.x > 0)
-                animator.Play("Player_RIGHT");
+                animator.Play("Player_LEFT");
             else
-                animator.Play("PLAYER_LEFT");
+                animator.Play("Player_RIGHT");
         }
         else
         {
             if (dir.y > 0)
-                animator.Play("PLAYER_UP");
-            else
                 animator.Play("Player_DOWN");
+            else
+                animator.Play("Player_UP");
         }
     }
 
@@ -72,9 +72,13 @@ public class PlayerMovement : MonoBehaviour
         else
         {
             if (lastMoveDir.y > 0)
-                animator.Play("PLAYER_IDLE_Up");
+            {
+                animator.Play("Player_IDLE_Down");
+            }
             else
-                animator.Play("PLAYER_IDLE_Down");
+            {
+                animator.Play("Player_IDLE_Up");
+            }
         }
     }
 }
