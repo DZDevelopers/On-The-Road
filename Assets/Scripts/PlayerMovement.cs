@@ -21,6 +21,9 @@ public class PlayerMovement : MonoBehaviour
 
     private Vector2 lastMoveDir = Vector2.down; 
     private string currentAnim;
+    [SerializeField] private float postComboCooldown = 0.5f; // cooldown after full combo
+    private float cooldownTimer = 0f;
+
 
     void Awake()
     {
@@ -47,11 +50,15 @@ public class PlayerMovement : MonoBehaviour
                 PlayIdleAnimation();
             }
         }
-
+        if (cooldownTimer > 0f)
+        {
+            cooldownTimer -= Time.deltaTime;
+        }
+        
         // Attack input
         if (Input.GetButtonDown(attackButton))
         {
-            if (!isAttacking)
+            if (!isAttacking && cooldownTimer <= 0f)
             {
                 StartAttack();
             }
@@ -102,6 +109,11 @@ public class PlayerMovement : MonoBehaviour
     {
         // Increment combo step (max 2, then loop)
         comboStep = (comboStep + 1) % 3;
+        if (comboStep > 2)
+        {
+            comboStep = 0;
+            cooldownTimer = postComboCooldown; // prevent immediate re-attack
+        }
         isAttacking = true;
         attackTimer = attackDuration;
         comboTimer = comboMaxDelay;
