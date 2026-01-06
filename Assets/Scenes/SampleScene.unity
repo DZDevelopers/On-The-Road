@@ -495,7 +495,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37df0d69574ea9b4491b67c14f98cbae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement
-  movespeed: 5
+  moveSpeed: 5
+  attackButton: Fire1
+  attackDuration: 0.3
+  comboMaxDelay: 0.5
+  postComboCooldown: 1
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

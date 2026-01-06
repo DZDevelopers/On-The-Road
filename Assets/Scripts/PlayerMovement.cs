@@ -5,25 +5,26 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D _rb;
     private Animator animator;
 
+    // Movement
+    [SerializeField] private float moveSpeed = 5f;
     private float moveX;
     private float moveY;
+    private Vector2 lastMoveDir = Vector2.down;
 
-    [SerializeField] private float moveSpeed = 5f;
-    [SerializeField] private string attackButton = "Fire1"; 
-    [SerializeField] private float attackDuration = 0.3f; // Each hit duration
-    [SerializeField] private float comboMaxDelay = 0.5f;   // Max time between attacks to continue combo
+    // Combo / attack settings
+    [SerializeField] private string attackButton = "Fire1";
+    [SerializeField] private float attackDuration = 0.3f;    // how long each attack locks you
+    [SerializeField] private float comboMaxDelay = 0.5f;     // time window to chain next attack
+    [SerializeField] private float postComboCooldown = 0.5f; // cooldown after finishing 3 hits
 
+    // State
     private bool isAttacking = false;
-    private float attackTimer = 0f;
+    private float attackTimer = 0f;  // current attack remaining time
+    private float comboTimer = 0f;   // time left to press next attack to chain
+    private float cooldownTimer = 0f;// global cooldown after full combo
 
-    private int comboStep = 0; // 0,1,2 → attack index
-    private float comboTimer = 0f;
-
-    private Vector2 lastMoveDir = Vector2.down; 
-    private string currentAnim;
-    [SerializeField] private float postComboCooldown = 0.5f; // cooldown after full combo
-    private float cooldownTimer = 0f;
-
+    private int attacksPerformed = 0; // 0 = none, 1..3 = which hit was done in this combo
+    private string currentAnim = "";
 
     void Awake()
     {
@@ -33,13 +34,62 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        // Movement input (only when not attacking)
+        // Decrease global cooldown
+        if (cooldownTimer > 0f) cooldownTimer -= Time.deltaTime;
+
+        // Read movement input every frame
         moveX = Input.GetAxisRaw("Horizontal");
         moveY = Input.GetAxisRaw("Vertical");
-
         Vector2 moveDir = new Vector2(moveX, moveY);
-        if (!isAttacking)
+
+        // Attack input handling
+        if (Input.GetButtonDown(attackButton))
         {
+            // start a new combo (only if not attacking and no cooldown)
+            if (!isAttacking && cooldownTimer <= 0f)
+            {
+                StartAttack();
+            }
+            // queue / chain next attack if within combo window and we haven't reached 3 hits
+            else if (isAttacking && comboTimer > 0f && attacksPerformed < 3)
+            {
+                QueueNextAttack();
+            }
+        }
+
+        // Timers while attacking
+        if (isAttacking)
+        {
+            attackTimer -= Time.deltaTime;
+            comboTimer -= Time.deltaTime;
+
+            // Attack finished
+            if (attackTimer <= 0f)
+            {
+                isAttacking = false;
+
+                // If we just finished the 3rd attack, apply post-combo cooldown and reset combo counter
+                if (attacksPerformed >= 3)
+                {
+                    // Start cooldown and reset combo so a new combo can't start until cooldown ends
+                    cooldownTimer = postComboCooldown;
+                    attacksPerformed = 0;
+                    comboTimer = 0f;
+                }
+                else
+                {
+                    // if combo window expired, reset combo counter
+                    if (comboTimer <= 0f)
+                    {
+                        attacksPerformed = 0;
+                    }
+                    // otherwise wait for the next input to chain
+                }
+            }
+        }
+        else
+        {
+            // Show walk/idle animations only when not attacking
             if (moveDir != Vector2.zero)
             {
                 lastMoveDir = moveDir;
@@ -50,99 +100,84 @@ public class PlayerMovement : MonoBehaviour
                 PlayIdleAnimation();
             }
         }
-        if (cooldownTimer > 0f)
-        {
-            cooldownTimer -= Time.deltaTime;
-        }
-        
-        // Attack input
-        if (Input.GetButtonDown(attackButton))
-        {
-            if (!isAttacking && cooldownTimer <= 0f)
-            {
-                StartAttack();
-            }
-            else if (isAttacking && comboTimer > 0f)
-            {
-                // Queue next attack in combo
-                QueueNextCombo();
-            }
-        }
-
-        // Handle timers
-        if (isAttacking)
-        {
-            attackTimer -= Time.deltaTime;
-            comboTimer -= Time.deltaTime;
-
-            if (attackTimer <= 0f)
-            {
-                isAttacking = false;
-
-                // If combo timer still active, wait for next input
-                if (comboTimer <= 0f)
-                {
-                    comboStep = 0; // Reset combo
-                }
-            }
-        }
     }
 
     void FixedUpdate()
     {
+        // Movement only applied if not attacking
         if (!isAttacking)
+        {
             _rb.linearVelocity = new Vector2(moveX, moveY).normalized * moveSpeed;
+        }
         else
+        {
             _rb.linearVelocity = Vector2.zero;
+        }
     }
 
+    // Start a new combo (first attack)
     void StartAttack()
     {
+        attacksPerformed = 1;
         isAttacking = true;
         attackTimer = attackDuration;
         comboTimer = comboMaxDelay;
 
-        PlayComboAnimation(comboStep);
+        PlayAttackForCount(attacksPerformed);
     }
 
-    void QueueNextCombo()
+    // Called when player presses attack during the combo window
+    void QueueNextAttack()
     {
-        // Increment combo step (max 2, then loop)
-        comboStep = (comboStep + 1) % 3;
-        if (comboStep > 2)
+        // Protect from going beyond 3 hits
+        if (attacksPerformed >= 3) return;
+
+        attacksPerformed++; // 1 -> 2 -> 3
+
+        // If third attack was just triggered, disable further chaining (combo window cleared)
+        if (attacksPerformed >= 3)
         {
-            comboStep = 0;
-            cooldownTimer = postComboCooldown; // prevent immediate re-attack
-        }
-        isAttacking = true;
-        attackTimer = attackDuration;
-        comboTimer = comboMaxDelay;
-
-        PlayComboAnimation(comboStep);
-    }
-
-    void PlayComboAnimation(int step)
-    {
-        string animName = "";
-
-        if (Mathf.Abs(lastMoveDir.x) > Mathf.Abs(lastMoveDir.y))
-        {
-            if (lastMoveDir.x > 0)
-                animName = $"Attack_Right_{step+1}";
-            else
-                animName = $"Attack_Left_{step+1}";
+            comboTimer = 0f; // no more chaining after hitting 3
         }
         else
         {
-            if (lastMoveDir.y > 0)
-                animName = $"Attack_Up_{step+1}";
-            else
-                animName = $"Attack_Down_{step+1}";
+            // refresh combo window for chaining to the next step
+            comboTimer = comboMaxDelay;
         }
 
+        // Reset attack timer and mark attacking so FixedUpdate will block movement
+        isAttacking = true;
+        attackTimer = attackDuration;
+
+        PlayAttackForCount(attacksPerformed);
+    }
+
+    // Play animation according to attacksPerformed (1 => original, 2 => mirrored clip, 3 => original again)
+    void PlayAttackForCount(int count)
+    {
+        string animName = GetAttackAnimNameForDirection(count);
         PlayAnimation(animName);
     }
 
+    // Determine the right animation name based on last movement direction and attack count
+    string GetAttackAnimNameForDirection(int count)
+    {
+        // use _2 only for second attack, otherwise use _1 for 1st and 3rd
+        string suffix = (count == 2) ? "_2" : "_1";
+
+        if (Mathf.Abs(lastMoveDir.x) > Mathf.Abs(lastMoveDir.y))
+        {
+            if (lastMoveDir.x > 0) return "Attack_Right" + suffix;
+            else return "Attack_Left" + suffix;
+        }
+        else
+        {
+            if (lastMoveDir.y > 0) return "Attack_Up" + suffix;
+            else return "Attack_Down" + suffix;
+        }
+    }
+
+    // Walk animations (4-direction)
     void PlayWalkAnimation(Vector2 dir)
     {
         if (Mathf.Abs(dir.x) > Mathf.Abs(dir.y))
@@ -157,6 +192,7 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
+    // Idle animations based on last direction
     void PlayIdleAnimation()
     {
         if (Mathf.Abs(lastMoveDir.x) > Mathf.Abs(lastMoveDir.y))
@@ -171,10 +207,13 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
+    // Avoid replaying the same animation every frame
     void PlayAnimation(string anim)
     {
         if (currentAnim == anim) return;
         currentAnim = anim;
-        animator.Play(anim, 0);
+
+        if (animator != null)
+            animator.Play(anim, 0);
     }
 }
