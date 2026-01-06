@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Player_LEFT
+  m_Name: Attack_Up_1
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -21,9 +21,13 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: -766179986948961772, guid: 89e5d9022fe9f7c4bab33db66d31edbc, type: 3}
-    - time: 0.16666667
-      value: {fileID: 5164368737072013344, guid: d8f4515f7e329b942a2b45a43556e6a5, type: 3}
+      value: {fileID: 8844743304570774289, guid: 83c55b342cce3fa40a36ba60ad7c5868, type: 3}
+    - time: 0.083333336
+      value: {fileID: 4095324136771819323, guid: 3d5a5c562e7a0624bb10d2e3768b1f30, type: 3}
+    - time: 0.33333334
+      value: {fileID: 8732660243095171697, guid: 25e55d3a63f39dc45b7c1bbb86d78c05, type: 3}
+    - time: 0.41666666
+      value: {fileID: 2368586507746685821, guid: 83c55b342cce3fa40a36ba60ad7c5868, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -46,14 +50,16 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: -766179986948961772, guid: 89e5d9022fe9f7c4bab33db66d31edbc, type: 3}
-    - {fileID: 5164368737072013344, guid: d8f4515f7e329b942a2b45a43556e6a5, type: 3}
+    - {fileID: 8844743304570774289, guid: 83c55b342cce3fa40a36ba60ad7c5868, type: 3}
+    - {fileID: 4095324136771819323, guid: 3d5a5c562e7a0624bb10d2e3768b1f30, type: 3}
+    - {fileID: 8732660243095171697, guid: 25e55d3a63f39dc45b7c1bbb86d78c05, type: 3}
+    - {fileID: 2368586507746685821, guid: 83c55b342cce3fa40a36ba60ad7c5868, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.33333334
+    m_StopTime: 0.43333334
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -72,11 +78,4 @@ AnimationClip:
   m_EulerEditorCurves: []
   m_HasGenericRootTransform: 0
   m_HasMotionFloatCurves: 0
-  m_Events:
-  - time: 0.33333334
-    functionName: 
-    data: 
-    objectReferenceParameter: {fileID: 0}
-    floatParameter: 0
-    intParameter: 0
-    messageOptions: 0
+  m_Events: []
