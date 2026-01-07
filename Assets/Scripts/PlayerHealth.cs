@@ -1,6 +1,7 @@
 using System;
 using Unity.VectorGraphics;
 using UnityEngine;
+using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
 
 public class PlayerHealth : MonoBehaviour
@@ -22,6 +23,7 @@ public class PlayerHealth : MonoBehaviour
     public void TakeDamage(int damage)
     {
         playerHealth = playerHealth - damage;
+        Death();
     }
     void Death()
     {
