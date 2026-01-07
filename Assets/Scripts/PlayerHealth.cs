@@ -6,11 +6,12 @@ using UnityEngine.SceneManagement;
 public class PlayerHealth : MonoBehaviour
 {
     [SerializeField] int playerHealth = 3;
-    [SerializeField] float playerInvincibility = 2f;
+    [SerializeField] float playerInvincibility;
+    private BoxCollider2D boxCollider2D;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        boxCollider2D = GetComponent<BoxCollider2D>();
     }
 
     // Update is called once per frame
@@ -18,10 +19,9 @@ public class PlayerHealth : MonoBehaviour
     {
         
     }
-    void TakeDamage(int damage)
+    public void TakeDamage(int damage)
     {
         playerHealth = playerHealth - damage;
-        
     }
     void Death()
     {

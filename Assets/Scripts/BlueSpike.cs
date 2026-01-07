@@ -3,7 +3,7 @@ using UnityEngine;
 public class BlueSpike : MonoBehaviour
 {
     private BoxCollider2D boxCollider2D;
-    private PlayerHealth playerHealth;
+    public PlayerHealth playerHealth;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Awake()
     {
