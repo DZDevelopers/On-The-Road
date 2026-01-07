@@ -13,8 +13,8 @@ public class PlayerMovement : MonoBehaviour
 
     // Combo / attack settings
     [SerializeField] private string attackButton = "Fire1";
-    [SerializeField] private float attackDuration = 0.3f;    // how long each attack locks you
-    [SerializeField] private float comboMaxDelay = 0.5f;     // time window to chain next attack
+    [SerializeField] private float attackDuration = 0.24f;    // how long each attack locks you
+    [SerializeField] private float comboMaxDelay = 1f;     // time window to chain next attack
     [SerializeField] private float postComboCooldown = 0.5f; // cooldown after finishing 3 hits
 
     // State
@@ -34,18 +34,13 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        // Decrease global cooldown
         if (cooldownTimer > 0f) cooldownTimer -= Time.deltaTime;
-
-        // Read movement input every frame
         moveX = Input.GetAxisRaw("Horizontal");
         moveY = Input.GetAxisRaw("Vertical");
         Vector2 moveDir = new Vector2(moveX, moveY);
 
-        // Attack input handling
         if (Input.GetButtonDown(attackButton))
         {
-            // start a new combo (only if not attacking and no cooldown)
             if (!isAttacking && cooldownTimer <= 0f)
             {
                 StartAttack();

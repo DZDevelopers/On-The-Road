@@ -497,9 +497,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement
   moveSpeed: 5
   attackButton: Fire1
-  attackDuration: 0.3
+  attackDuration: 0.24
   comboMaxDelay: 0.5
-  postComboCooldown: 1
+  postComboCooldown: 0.5
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
