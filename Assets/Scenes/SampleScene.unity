@@ -373,6 +373,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BlueSpike
   playerHealth: {fileID: 1579167339}
+  playerMovement: {fileID: 1579167337}
 --- !u!95 &952327837
 Animator:
   serializedVersion: 7
@@ -677,6 +678,7 @@ MonoBehaviour:
   attackDuration: 0.24
   comboMaxDelay: 0.5
   postComboCooldown: 0.5
+  isAttacking: 0
 --- !u!61 &1579167338
 BoxCollider2D:
   m_ObjectHideFlags: 0

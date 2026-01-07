@@ -3,6 +3,7 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     private Rigidbody2D _rb;
+    private BoxCollider2D boxCollider2D;
     private Animator animator;
 
     // Movement
@@ -18,7 +19,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float postComboCooldown = 0.5f; // cooldown after finishing 3 hits
 
     // State
-    private bool isAttacking = false;
+    public bool isAttacking = false;
     private float attackTimer = 0f;  // current attack remaining time
     private float comboTimer = 0f;   // time left to press next attack to chain
     private float cooldownTimer = 0f;// global cooldown after full combo
@@ -30,6 +31,7 @@ public class PlayerMovement : MonoBehaviour
     {
         _rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        boxCollider2D = GetComponent<BoxCollider2D>();
     }
 
     void Update()

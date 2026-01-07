@@ -4,6 +4,7 @@ public class BlueSpike : MonoBehaviour
 {
     private BoxCollider2D boxCollider2D;
     public PlayerHealth playerHealth;
+    public PlayerMovement playerMovement;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Awake()
     {
@@ -23,7 +24,18 @@ public class BlueSpike : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player")
         {
-            playerHealth.TakeDamage(1);
+            if (playerMovement.isAttacking)
+            {
+                EDeath();
+            }
+            if (!playerMovement.isAttacking)
+            {
+                playerHealth.TakeDamage(1);
+            }
         }
+    }
+    void EDeath()
+    {
+        Destroy(gameObject);
     }
 }
