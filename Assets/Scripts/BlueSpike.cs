@@ -4,7 +4,7 @@ public class BlueSpike : MonoBehaviour
 {
     private BoxCollider2D boxCollider2D;
     public PlayerHealth playerHealth;
-    public PlayerMovement playerMovement;
+    [SerializeField] private PlayerMovement playerMovement;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Awake()
     {
