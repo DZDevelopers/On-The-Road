@@ -26,6 +26,7 @@ public class PlayerMovement : MonoBehaviour
 
     private int attacksPerformed = 0; // 0 = none, 1..3 = which hit was done in this combo
     private string currentAnim = "";
+    [HideInInspector] public Vector2 facingDirection = Vector2.down;
 
     void Awake()
     {
@@ -96,6 +97,10 @@ public class PlayerMovement : MonoBehaviour
             {
                 PlayIdleAnimation();
             }
+        }
+        if (moveDir != Vector2.zero)
+        {
+            facingDirection = moveDir.normalized;
         }
     }
 

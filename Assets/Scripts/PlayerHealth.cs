@@ -6,9 +6,9 @@ using UnityEngine.SceneManagement;
 
 public class PlayerHealth : MonoBehaviour
 {
-    [SerializeField] public int playerMaxHealth = 3;
-    [SerializeField] public int playerHealth = 3;
-    [SerializeField] float playerInvincibility = 2f;
+    public int playerMaxHealth = 6;
+    public int playerHealth = 6;
+    [SerializeField] float playerInvincibility = 1.5f;
     private BoxCollider2D boxCollider2D;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
