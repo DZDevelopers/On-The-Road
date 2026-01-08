@@ -13,25 +13,33 @@ public class AttackPoint : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (_PM.isAttacking == true)
+        {
+            _BX2.enabled = true;
+        }
+        if (_PM.isAttacking == false)
+        {
+            _BX2.enabled = false;
+        }
         if (_PM.facingDirection == Vector2.down)
         {
             _BX2.offset = new Vector2 (_BX2.offset.x,-0.45f);
-            transform.rotation = Quaternion.Euler(transform.rotation.x, transform.rotation.y, 0);
+            transform.rotation = Quaternion.Euler(0, 0, 0);
         }
         if (_PM.facingDirection == Vector2.up)
         {
             _BX2.offset = new Vector2 (_BX2.offset.x,0.45f);
-            transform.rotation = Quaternion.Euler(transform.rotation.x, transform.rotation.y, 0);
+            transform.rotation = Quaternion.Euler(0, 0, 0);
         }
         if (_PM.facingDirection == Vector2.right)
         {
-            _BX2.offset = new Vector2 (_BX2.offset.x,0.45f);
-            transform.rotation = Quaternion.Euler(transform.rotation.x, transform.rotation.y, 90);
+            _BX2.offset = new Vector2 (_BX2.offset.x,-0.45f);
+            transform.rotation = Quaternion.Euler(0, 0, 90);
         }
         if (_PM.facingDirection == Vector2.left)
         {
-            _BX2.offset = new Vector2 (_BX2.offset.x,-0.45f);
-            transform.rotation = Quaternion.Euler(transform.rotation.x, transform.rotation.y, 90);
+            _BX2.offset = new Vector2 (_BX2.offset.x,0.45f);
+            transform.rotation = Quaternion.Euler(0, 0, 90);
         }
     }
 }

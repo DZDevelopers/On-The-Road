@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class BlueSpike : MonoBehaviour
 {
@@ -24,14 +25,13 @@ public class BlueSpike : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player")
         {
-            if (playerMovement.isAttacking)
-            {
-                EDeath();
-            }
-            if (!playerMovement.isAttacking)
-            {
-                playerHealth.TakeDamage(1);
-            }
+
+           playerHealth.TakeDamage(1);
+
+        }
+        if (collision.gameObject.tag == "AttackPoint")
+        {
+            EDeath();
         }
     }
     void EDeath()
