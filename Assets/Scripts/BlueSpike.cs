@@ -27,7 +27,11 @@ public class BlueSpike : MonoBehaviour
         {
 
            playerHealth.TakeDamage(1);
-
+        }
+        if (collision.gameObject.tag == "Bullet")
+        {
+            Destroy(collision.gameObject);
+            EDeath();
         }
     }
     void OnTriggerEnter2D(Collider2D collision)
