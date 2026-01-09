@@ -1,14 +1,21 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class PlayerAttack : MonoBehaviour
 {
-    private PlayerMovement _PM;
+    [Header("Stuff That Actually Matter")]
+    [SerializeField] public int AmmoAmount = 5;
+    [SerializeField] public int AmmoMaxAmount = 5;
     [SerializeField] private string attackButton = "Fire2";
+
+    [Header("Stuff That Doesn't Matter")]
+    private PlayerMovement _PM;
     private Animator anime;
     [SerializeField] private GameObject Player;
     [SerializeField] private GameObject bullet;
     private bool isShooting;
     private float shootingTime = 0.5f;
+    
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -27,10 +34,11 @@ public class PlayerAttack : MonoBehaviour
     }
     void Shoot()
     {
-        if (!isShooting)
+        if (!isShooting && AmmoAmount > 0)
         {
             if (_PM.facingDirection == Vector2.down)
             {
+                AmmoAmount --;
                 anime.Play("Player_RangeAttack_DOWN");
                 GameObject b = Instantiate(bullet,new Vector2 (Player.transform.position.x,Player.transform.position.y - 1),Quaternion.Euler(bullet.transform.rotation.x, bullet.transform.rotation.y, 180));
                 shootingTime = 0f;
@@ -38,6 +46,7 @@ public class PlayerAttack : MonoBehaviour
             }
             if (_PM.facingDirection == Vector2.up)
             {
+                AmmoAmount --;
                 anime.Play("Player_RangeAttack_UP");
                 GameObject b = Instantiate(bullet,new Vector2 (Player.transform.position.x,Player.transform.position.y + 1),Quaternion.Euler(bullet.transform.rotation.x, bullet.transform.rotation.y, 0));
                 shootingTime = 0f;
@@ -45,6 +54,7 @@ public class PlayerAttack : MonoBehaviour
             }
             if (_PM.facingDirection == Vector2.right)
             {
+                AmmoAmount --;
                 anime.Play("Player_RangeAttack_RIGHT");
                 GameObject b = Instantiate(bullet,new Vector2 (Player.transform.position.x + 1 ,Player.transform.position.y),Quaternion.Euler(bullet.transform.rotation.x, bullet.transform.rotation.y, 270));
                 shootingTime = 0f;
@@ -52,6 +62,7 @@ public class PlayerAttack : MonoBehaviour
             }
             if (_PM.facingDirection == Vector2.left)
             {
+                AmmoAmount --;
                 anime.Play("Player_RangeAttack_LEFT");
                 GameObject b = Instantiate(bullet,new Vector2 (Player.transform.position.x - 1,Player.transform.position.y ),Quaternion.Euler(bullet.transform.rotation.x, bullet.transform.rotation.y, 90));
                 shootingTime = 0f;
