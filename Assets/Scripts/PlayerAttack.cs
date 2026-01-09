@@ -7,6 +7,7 @@ public class PlayerAttack : MonoBehaviour
     private PlayerMovement _PM;
     [SerializeField] private string attackButton = "Fire2";
     private Animator anime;
+    [SerializeField] private GameObject bullet;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -27,10 +28,12 @@ public class PlayerAttack : MonoBehaviour
          if (_PM.facingDirection == Vector2.down)
         {
             anime.Play("Player_RangeAttack_DOWN");
+            PShoot();
         }
         if (_PM.facingDirection == Vector2.up)
         {
             anime.Play("Player_RangeAttack_UP");
+            PShoot();
         }
         if (_PM.facingDirection == Vector2.right)
         {
@@ -40,5 +43,9 @@ public class PlayerAttack : MonoBehaviour
         {
             anime.Play("Player_RangeAttack_LEFT");
         }
+    }
+    void PShoot()
+    {
+        Resources.Load<GameObject>("Prefab/Bullet");
     }
 }
