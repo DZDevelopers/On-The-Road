@@ -823,6 +823,7 @@ GameObject:
   - component: {fileID: 1579167337}
   - component: {fileID: 1579167338}
   - component: {fileID: 1579167339}
+  - component: {fileID: 1579167340}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -1034,6 +1035,20 @@ MonoBehaviour:
   playerMaxHealth: 6
   playerHealth: 6
   playerInvincibility: 1
+--- !u!114 &1579167340
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1579167331}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9edbe692394be294db373a4cdd3de5c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerAttack
+  attackButton: Fire2
+  bullet: {fileID: 0}
 --- !u!1 &1667123109
 GameObject:
   m_ObjectHideFlags: 0
