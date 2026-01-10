@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -17,6 +18,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float attackDuration = 0.24f;    // how long each attack locks you
     [SerializeField] private float comboMaxDelay = 1f;     // time window to chain next attack
     [SerializeField] private float postComboCooldown = 0.5f; // cooldown after finishing 3 hits
+    [SerializeField] public PlayerAttack playerAttack;
 
     // State
     public bool isAttacking = false;
@@ -33,6 +35,7 @@ public class PlayerMovement : MonoBehaviour
         _rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         boxCollider2D = GetComponent<BoxCollider2D>();
+        playerAttack = GetComponent<PlayerAttack>();
     }
 
     void Update()
@@ -107,7 +110,7 @@ public class PlayerMovement : MonoBehaviour
     void FixedUpdate()
     {
         // Movement only applied if not attacking
-        if (!isAttacking)
+        if (!isAttacking && !playerAttack.isShooting)
         {
             _rb.linearVelocity = new Vector2(moveX, moveY).normalized * moveSpeed;
         }
