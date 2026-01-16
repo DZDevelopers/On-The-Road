@@ -7,6 +7,9 @@ public class PlayerAttack : MonoBehaviour
     [SerializeField] public int AmmoAmount = 5;
     [SerializeField] public int AmmoMaxAmount = 5;
     [SerializeField] private string attackButton = "Fire2";
+    [SerializeField] public int HealAmount = 15;
+    [SerializeField] public int HealMaxAmount = 15;
+    [SerializeField] private string healButton = "LeftShift";
 
     [Header("Stuff That Doesn't Matter")]
     private PlayerMovement _PM;
@@ -29,6 +32,10 @@ public class PlayerAttack : MonoBehaviour
         if (Input.GetButtonDown(attackButton))
         {
             Shoot();
+        }
+        if (Input.GetButtonDown(healButton))
+        {
+            Heal();
         }
         shootingTimer();
     }
@@ -82,4 +89,10 @@ public class PlayerAttack : MonoBehaviour
             isShooting = true;
         }
     }
+    void Heal()
+    {
+        HealAmount -= 5;
+        
+    }
+
 }

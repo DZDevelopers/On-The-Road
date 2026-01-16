@@ -5,6 +5,8 @@ public class CanavsHealth : MonoBehaviour
 {
     public PlayerHealth _PH;
     public PlayerAttack _PA;
+    public PlayerAttack _PHE;
+
     [SerializeField] private Image Health_1;
     [SerializeField] private Image Health_2;
     [SerializeField] private Image Health_3;
@@ -20,8 +22,19 @@ public class CanavsHealth : MonoBehaviour
     [SerializeField] private Sprite FullAmmo;
     [SerializeField] private Sprite NoAmmo;
 
+    [SerializeField] private Image Heal_1;
+    [SerializeField] private Image Heal_2;
+    [SerializeField] private Image Heal_3;
+    [SerializeField] private Sprite FullHeal;
+    [SerializeField] private Sprite SemiFullHeal;
+    [SerializeField] private Sprite HalfFullHeal;
+    [SerializeField] private Sprite HalfNoHeal;
+    [SerializeField] private Sprite SemiNoHeal;
+    [SerializeField] private Sprite NoHeal;
+
     void Update()
     {
+        // Health
         if (_PH.playerHealth == 6)
         {
             Health_3.sprite = FullHealth;
@@ -59,6 +72,7 @@ public class CanavsHealth : MonoBehaviour
             Health_1.sprite = HalfHealth;
         }
 
+        // Ammo
         if (_PA.AmmoAmount == 5)
         {
             Ammo_5.sprite = FullAmmo;
@@ -106,6 +120,103 @@ public class CanavsHealth : MonoBehaviour
             Ammo_3.sprite = NoAmmo;
             Ammo_2.sprite = NoAmmo;
             Ammo_1.sprite = NoAmmo;
+        }
+
+        // Healing
+        {
+            Heal_3.sprite = FullHeal;
+            Heal_2.sprite = FullHeal;
+            Heal_1.sprite = FullHeal;
+        }
+        if (_PHE.HealAmount == 14)
+        {
+            Heal_3.sprite = FullHeal;
+            Heal_2.sprite = FullHeal;
+            Heal_1.sprite = SemiFullHeal;
+        }
+        if (_PHE.HealAmount == 13)
+        {
+            Heal_3.sprite = FullHeal;
+            Heal_2.sprite = FullHeal;
+            Heal_1.sprite = HalfFullHeal;
+        }
+        if (_PHE.HealAmount == 12)
+        {
+            Heal_3.sprite = FullHeal;
+            Heal_2.sprite = FullHeal;
+            Heal_1.sprite = HalfNoHeal;
+        }
+        if (_PHE.HealAmount == 11)
+        {
+            Heal_3.sprite = FullHeal;
+            Heal_2.sprite = FullHeal;
+            Heal_1.sprite = SemiNoHeal;
+        }
+        if (_PHE.HealAmount == 10)
+        {
+            Heal_3.sprite = FullHeal;
+            Heal_2.sprite = FullHeal;
+            Heal_1.sprite = NoHeal;
+        }
+        if (_PHE.HealAmount == 9)
+        {
+            Heal_3.sprite = FullHeal;
+            Heal_2.sprite = SemiFullHeal;
+            Heal_1.sprite = NoHeal;
+        }
+        if (_PHE.HealAmount == 8)
+        {
+            Heal_3.sprite = FullHeal;
+            Heal_2.sprite = HalfFullHeal;
+            Heal_1.sprite = NoHeal;
+        }
+        if (_PHE.HealAmount == 7)
+        {
+            Heal_3.sprite = FullHeal;
+            Heal_2.sprite = HalfNoHeal;
+            Heal_1.sprite = NoHeal;
+        }
+        if (_PHE.HealAmount == 6)
+        {
+            Heal_3.sprite = FullHeal;
+            Heal_2.sprite = SemiNoHeal;
+            Heal_1.sprite = NoHeal;
+        }
+        if (_PHE.HealAmount == 5)
+        {
+            Heal_3.sprite = FullHeal;
+            Heal_2.sprite = NoHeal;
+            Heal_1.sprite = NoHeal;
+        }
+        if (_PHE.HealAmount == 4)
+        {
+            Heal_3.sprite = SemiFullHeal;
+            Heal_2.sprite = NoHeal;
+            Heal_1.sprite = NoHeal;
+        }
+        if (_PHE.HealAmount == 3)
+        {
+            Heal_3.sprite = HalfFullHeal;
+            Heal_2.sprite = NoHeal;
+            Heal_1.sprite = NoHeal;
+        }
+        if (_PHE.HealAmount == 2)
+        {
+            Heal_3.sprite = HalfNoHeal;
+            Heal_2.sprite = NoHeal;
+            Heal_1.sprite = NoHeal;
+        }
+        if (_PHE.HealAmount == 1)
+        {
+            Heal_3.sprite = SemiNoHeal;
+            Heal_2.sprite = NoHeal;
+            Heal_1.sprite = NoHeal;
+        }
+        if (_PHE.HealAmount <= 0)
+        {
+            Heal_3.sprite = NoHeal;
+            Heal_2.sprite = NoHeal;
+            Heal_1.sprite = NoHeal;
         }
     }
 }
