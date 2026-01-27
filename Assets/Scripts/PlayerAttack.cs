@@ -9,7 +9,6 @@ public class PlayerAttack : MonoBehaviour
     [SerializeField] private string attackButton = "Fire2";
     [SerializeField] public int HealAmount = 15;
     [SerializeField] public int HealMaxAmount = 15;
-    [SerializeField] private string healButton = "Fire3";
     [SerializeField] private float healingTime = 1f;
     [SerializeField] private float healingTimer = 1f;
 
@@ -42,6 +41,7 @@ public class PlayerAttack : MonoBehaviour
         }
         if (Input.GetKey(KeyCode.LeftShift))
         {
+            isHealing = true;
             Heal();
         }
         else
@@ -96,7 +96,7 @@ public class PlayerAttack : MonoBehaviour
         {
             isShooting = false;
         }
-        if (shootingTime <= 0.5)
+        if (shootingTime < 0.5)
         {
             isShooting = true;
         }
@@ -105,34 +105,17 @@ public class PlayerAttack : MonoBehaviour
     {
         if (HealAmount > 0)
         {
+            if (isHealing)
+            {
+                anime.Play("Player_Healing");
+            }
+            
             if (healingTimer >= healingTime)
             {
-                if (_PM.facingDirection == Vector2.down)
-                {
-                    anime.Play("Player_Healing");
-                    HealAmount -= 5;
-                    _PH.playerHealth += 2;
-                    Debug.Log("SHould work down");
-                }
-                if (_PM.facingDirection == Vector2.up)
-                {
-                    anime.Play("Player_Healing");
-                    HealAmount -= 5;
-                    _PH.playerHealth += 2;
-                    Debug.Log("SHould work up");
-                }
-                if (_PM.facingDirection == Vector2.right)
-                {
-                    anime.Play("Player_Healing");
-                    HealAmount -= 5;
-                    _PH.playerHealth += 2;
-                }
-                if (_PM.facingDirection == Vector2.left)
-                {
-                    anime.Play("Player_Healing");
-                    HealAmount -= 5;
-                    _PH.playerHealth += 2;
-                }
+                Debug.Log("SHould work down");
+                HealAmount -= 5;
+                _PH.playerHealth += 2;
+                healingTimer = 0;
             }
             
         }
