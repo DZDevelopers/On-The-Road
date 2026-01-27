@@ -11,6 +11,7 @@ public class PlayerAttack : MonoBehaviour
     [SerializeField] public int HealMaxAmount = 15;
     [SerializeField] private float healingTime = 1f;
     [SerializeField] private float healingTimer = 1f;
+    [SerializeField] private float healingCooldown = 1f;
 
 
     [Header("Stuff That Doesn't Matter")]
@@ -47,9 +48,11 @@ public class PlayerAttack : MonoBehaviour
         else
         {
             isHealing = false;
+            anime.SetBool("IsHealing",false);
         }
         ShootingTimer();
         HealingTimer();
+        healingCooldown -= Time.deltaTime;
     }
     void Shoot()
     {
@@ -105,19 +108,21 @@ public class PlayerAttack : MonoBehaviour
     {
         if (HealAmount > 0)
         {
-            if (isHealing)
+            if (healingCooldown <= 0)
             {
-                anime.Play("Player_Healing");
+                if (isHealing)
+                {
+                    anime.SetBool("IsHealing",true);
+                }
+                if (healingTimer >= healingTime)
+                {
+                    Debug.Log("SHould work down");
+                    HealAmount -= 5;
+                    _PH.playerHealth += 2;
+                    healingTimer = 0f;
+                    healingCooldown = 1f;
+                }   
             }
-            
-            if (healingTimer >= healingTime)
-            {
-                Debug.Log("SHould work down");
-                HealAmount -= 5;
-                _PH.playerHealth += 2;
-                healingTimer = 0;
-            }
-            
         }
         
     }
@@ -129,7 +134,7 @@ public class PlayerAttack : MonoBehaviour
         }
         else
         {
-            healingTimer = 0;
+            healingTimer = 0f;
         }
     }
 
