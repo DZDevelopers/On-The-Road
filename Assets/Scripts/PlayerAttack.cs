@@ -9,21 +9,28 @@ public class PlayerAttack : MonoBehaviour
     [SerializeField] private string attackButton = "Fire2";
     [SerializeField] public int HealAmount = 15;
     [SerializeField] public int HealMaxAmount = 15;
-    [SerializeField] private string healButton = "LeftShift";
+    [SerializeField] private string healButton = "Fire3";
+    [SerializeField] private float healingTime = 1f;
+    [SerializeField] private float healingTimer = 1f;
+
 
     [Header("Stuff That Doesn't Matter")]
     private PlayerMovement _PM;
+    private PlayerHealth _PH;
     private Animator anime;
     [SerializeField] private GameObject Player;
     [SerializeField] private GameObject bullet;
     public bool isShooting;
+    public bool isHealing;
     private float shootingTime = 0.5f;
+    
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         _PM = GetComponent<PlayerMovement>();
         anime = GetComponent<Animator>();
+        _PH = GetComponent<PlayerHealth>();
     }
 
     // Update is called once per frame
@@ -33,11 +40,16 @@ public class PlayerAttack : MonoBehaviour
         {
             Shoot();
         }
-        if (Input.GetButtonDown(healButton))
+        if (Input.GetKey(KeyCode.LeftShift))
         {
             Heal();
         }
-        shootingTimer();
+        else
+        {
+            isHealing = false;
+        }
+        ShootingTimer();
+        HealingTimer();
     }
     void Shoot()
     {
@@ -77,7 +89,7 @@ public class PlayerAttack : MonoBehaviour
             }
         }
     }
-    void shootingTimer()
+    void ShootingTimer()
     {
         shootingTime += Time.deltaTime;
         if (shootingTime >= 0.5)
@@ -91,8 +103,51 @@ public class PlayerAttack : MonoBehaviour
     }
     void Heal()
     {
-        HealAmount -= 5;
+        if (HealAmount > 0)
+        {
+            if (healingTimer >= healingTime)
+            {
+                if (_PM.facingDirection == Vector2.down)
+                {
+                    anime.Play("Player_Healing");
+                    HealAmount -= 5;
+                    _PH.playerHealth += 2;
+                    Debug.Log("SHould work down");
+                }
+                if (_PM.facingDirection == Vector2.up)
+                {
+                    anime.Play("Player_Healing");
+                    HealAmount -= 5;
+                    _PH.playerHealth += 2;
+                    Debug.Log("SHould work up");
+                }
+                if (_PM.facingDirection == Vector2.right)
+                {
+                    anime.Play("Player_Healing");
+                    HealAmount -= 5;
+                    _PH.playerHealth += 2;
+                }
+                if (_PM.facingDirection == Vector2.left)
+                {
+                    anime.Play("Player_Healing");
+                    HealAmount -= 5;
+                    _PH.playerHealth += 2;
+                }
+            }
+            
+        }
         
+    }
+    void HealingTimer()
+    {
+        if (isHealing)
+        {
+            healingTimer += Time.deltaTime;
+        }
+        else
+        {
+            healingTimer = 0;
+        }
     }
 
 }
