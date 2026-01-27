@@ -8,7 +8,7 @@ public class PlayerHealth : MonoBehaviour
 {
     public int playerMaxHealth = 6;
     public int playerHealth = 6;
-    [SerializeField] float playerInvincibility = 1.5f;
+    [SerializeField] float playerInvincibility = 1f;
     private BoxCollider2D boxCollider2D;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -31,7 +31,7 @@ public class PlayerHealth : MonoBehaviour
         if (playerInvincibility <= 0)
         {
             playerHealth = playerHealth - damage;
-            playerInvincibility = 2f;
+            playerInvincibility = 1f;
             Death();
         }
     }
