@@ -48,5 +48,7 @@ public class BlueSpike : MonoBehaviour
         anime.Play("BlueEnemy_Death");
         Destroy(gameObject, 0.1f);
         playerAttack.playerEXP += 5;
+        playerAttack.AmmoAmount += 1;
+        playerAttack.HealAmount += 1;
     }
 }

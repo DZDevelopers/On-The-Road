@@ -12,8 +12,6 @@ public class PlayerAttack : MonoBehaviour
     [SerializeField] private float healingTime = 1f;
     [SerializeField] private float healingTimer = 1f;
     [SerializeField] private float healingCooldown = 1f;
-
-
     [Header("Stuff That Doesn't Matter")]
     private PlayerMovement _PM;
     private PlayerHealth _PH;
@@ -69,7 +67,14 @@ public class PlayerAttack : MonoBehaviour
             LevelUp();
             HasALevelUp = false;
         }
-
+        if (AmmoAmount > AmmoMaxAmount)
+        {
+            AmmoAmount = AmmoMaxAmount;
+        }
+        if (HealAmount > HealMaxAmount)
+        {
+            HealAmount = HealMaxAmount;
+        }
     }
     void Shoot()
     {
