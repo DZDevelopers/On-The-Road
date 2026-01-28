@@ -140,6 +140,7 @@ public class PlayerAttack : MonoBehaviour
                     healingCooldown = 1f;
                     SP = false;
                     anime.SetBool("IsHealing",false);
+                    anime.Play("HealingDone");
                 }   
             }
         }
