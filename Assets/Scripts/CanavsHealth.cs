@@ -550,6 +550,20 @@ if (_PA.HealAmount == 30)
 }
 #endregion
         Exp.text = $"EXP:{_PA.playerEXP}/{_PA.playerLevel * 50}";
+
+        if (_PH.playerMaxHealth > 6)
+        {
+            Health_4.gameObject.SetActive(true);
+        }
+        if (_PH.playerMaxHealth > 8)
+        {
+            Health_5.gameObject.SetActive(true);
+        }
+        if (_PH.playerMaxHealth > 10)
+        {
+            Health_6.gameObject.SetActive(true);
+        }
+
         if (_PA.AmmoMaxAmount > 5)
         {
             Ammo_6.gameObject.SetActive(true);
