@@ -32,7 +32,7 @@ public class CanavsHealth : MonoBehaviour
     [SerializeField] private Sprite SemiNoHeal;
     [SerializeField] private Sprite NoHeal;
 
-    [SerializeField] private TextMeshPro Exp;
+    [SerializeField] private TextMeshProUGUI Exp;
 
     void Update()
     {

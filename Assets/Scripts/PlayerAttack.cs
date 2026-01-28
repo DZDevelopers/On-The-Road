@@ -22,7 +22,7 @@ public class PlayerAttack : MonoBehaviour
     [SerializeField] private GameObject bullet;
     public bool isShooting;
     public bool isHealing;
-    private int SP = 0;
+    private bool SP = true;
     private float shootingTime = 0.5f;
     public int playerEXP = 0;
     public bool HasALevelUp = false;
@@ -45,7 +45,6 @@ public class PlayerAttack : MonoBehaviour
         }
         if (Input.GetKey(KeyCode.LeftShift))
         {
-            SP = 1;
             isHealing = true;
             Heal();
         }
@@ -56,7 +55,7 @@ public class PlayerAttack : MonoBehaviour
         }
         if (Input.GetKeyUp(KeyCode.LeftShift))
         {
-            SP = 0;
+            SP = true;
         }
         ShootingTimer();
         HealingTimer();
@@ -126,7 +125,7 @@ public class PlayerAttack : MonoBehaviour
     {
         if (HealAmount > 0)
         {
-            if (healingCooldown <= 0 && ((SP == 0) || (SP == 1)))
+            if (healingCooldown <= 0 && SP)
             {
                 if (isHealing)
                 {
@@ -139,7 +138,8 @@ public class PlayerAttack : MonoBehaviour
                     _PH.playerHealth += 2;
                     healingTimer = 0f;
                     healingCooldown = 1f;
-                    SP ++;
+                    SP = false;
+                    anime.SetBool("IsHealing",false);
                 }   
             }
         }

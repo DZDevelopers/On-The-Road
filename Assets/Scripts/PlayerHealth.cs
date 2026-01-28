@@ -9,11 +9,13 @@ public class PlayerHealth : MonoBehaviour
     public int playerMaxHealth = 6;
     public int playerHealth = 6;
     [SerializeField] float playerInvincibility = 1f;
+    private SpriteRenderer SR;
     private BoxCollider2D boxCollider2D;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         boxCollider2D = GetComponent<BoxCollider2D>();
+        SR = GetComponent<SpriteRenderer>();
         playerHealth = playerMaxHealth;
     }
 
@@ -24,6 +26,19 @@ public class PlayerHealth : MonoBehaviour
         if (playerHealth > playerMaxHealth)
         {
             playerHealth = playerMaxHealth;
+        }
+        if (playerInvincibility > 0)
+        {
+            float alpha = Mathf.Lerp(0.5f, 0.95f, Mathf.PingPong(Time.time * 5f, 1f));
+            Color c = SR.color;
+            c.a = alpha;
+            SR.color = c;
+        }
+        else
+        {
+            Color c = SR.color;
+            c.a = 1f;
+            SR.color = c;
         }
     }
     public void TakeDamage(int damage)
