@@ -5,11 +5,14 @@ public class BlueSpike : MonoBehaviour
 {
     private BoxCollider2D boxCollider2D;
     public PlayerHealth playerHealth;
+    public PlayerAttack playerAttack;
     [SerializeField] private PlayerMovement playerMovement;
+    private Animator anime;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Awake()
     {
         boxCollider2D = GetComponent<BoxCollider2D>();
+        anime = GetComponent<Animator>();
     }
     void Start()
     {
@@ -25,7 +28,6 @@ public class BlueSpike : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player")
         {
-
            playerHealth.TakeDamage(1);
         }
         if (collision.gameObject.tag == "Bullet")
@@ -43,6 +45,8 @@ public class BlueSpike : MonoBehaviour
     }
     void EDeath()
     {
-        Destroy(gameObject);
+        anime.Play("BlueEnemy_Death");
+        Destroy(gameObject, 0.1f);
+        playerAttack.playerEXP += 5;
     }
 }

@@ -1,11 +1,11 @@
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 
 public class CanavsHealth : MonoBehaviour
 {
     public PlayerHealth _PH;
     public PlayerAttack _PA;
-    public PlayerAttack _PHE;
 
     [SerializeField] private Image Health_1;
     [SerializeField] private Image Health_2;
@@ -31,6 +31,8 @@ public class CanavsHealth : MonoBehaviour
     [SerializeField] private Sprite HalfNoHeal;
     [SerializeField] private Sprite SemiNoHeal;
     [SerializeField] private Sprite NoHeal;
+
+    [SerializeField] private TextMeshPro Exp;
 
     void Update()
     {
@@ -123,100 +125,102 @@ public class CanavsHealth : MonoBehaviour
         }
 
         // Healing
+        if (_PA.HealAmount == 15)
         {
-            Heal_3.sprite = FullHeal;
-            Heal_2.sprite = FullHeal;
             Heal_1.sprite = FullHeal;
-        }
-        if (_PHE.HealAmount == 14)
-        {
-            Heal_3.sprite = FullHeal;
             Heal_2.sprite = FullHeal;
-            Heal_1.sprite = SemiFullHeal;
-        }
-        if (_PHE.HealAmount == 13)
-        {
             Heal_3.sprite = FullHeal;
+        }
+        if (_PA.HealAmount == 14)
+        {           
+            Heal_1.sprite = FullHeal;
             Heal_2.sprite = FullHeal;
-            Heal_1.sprite = HalfFullHeal;
-        }
-        if (_PHE.HealAmount == 12)
-        {
-            Heal_3.sprite = FullHeal;
-            Heal_2.sprite = FullHeal;
-            Heal_1.sprite = HalfNoHeal;
-        }
-        if (_PHE.HealAmount == 11)
-        {
-            Heal_3.sprite = FullHeal;
-            Heal_2.sprite = FullHeal;
-            Heal_1.sprite = SemiNoHeal;
-        }
-        if (_PHE.HealAmount == 10)
-        {
-            Heal_3.sprite = FullHeal;
-            Heal_2.sprite = FullHeal;
-            Heal_1.sprite = NoHeal;
-        }
-        if (_PHE.HealAmount == 9)
-        {
-            Heal_3.sprite = FullHeal;
-            Heal_2.sprite = SemiFullHeal;
-            Heal_1.sprite = NoHeal;
-        }
-        if (_PHE.HealAmount == 8)
-        {
-            Heal_3.sprite = FullHeal;
-            Heal_2.sprite = HalfFullHeal;
-            Heal_1.sprite = NoHeal;
-        }
-        if (_PHE.HealAmount == 7)
-        {
-            Heal_3.sprite = FullHeal;
-            Heal_2.sprite = HalfNoHeal;
-            Heal_1.sprite = NoHeal;
-        }
-        if (_PHE.HealAmount == 6)
-        {
-            Heal_3.sprite = FullHeal;
-            Heal_2.sprite = SemiNoHeal;
-            Heal_1.sprite = NoHeal;
-        }
-        if (_PHE.HealAmount == 5)
-        {
-            Heal_3.sprite = FullHeal;
-            Heal_2.sprite = NoHeal;
-            Heal_1.sprite = NoHeal;
-        }
-        if (_PHE.HealAmount == 4)
-        {
             Heal_3.sprite = SemiFullHeal;
-            Heal_2.sprite = NoHeal;
-            Heal_1.sprite = NoHeal;
         }
-        if (_PHE.HealAmount == 3)
+        if (_PA.HealAmount == 13)
         {
+            Heal_1.sprite = FullHeal;
+            Heal_2.sprite = FullHeal;
             Heal_3.sprite = HalfFullHeal;
-            Heal_2.sprite = NoHeal;
-            Heal_1.sprite = NoHeal;
-        }
-        if (_PHE.HealAmount == 2)
+        }   
+        if (_PA.HealAmount == 12)
         {
+            Heal_1.sprite = FullHeal;
+            Heal_2.sprite = FullHeal;
             Heal_3.sprite = HalfNoHeal;
-            Heal_2.sprite = NoHeal;
-            Heal_1.sprite = NoHeal;
         }
-        if (_PHE.HealAmount == 1)
+        if (_PA.HealAmount == 11)
         {
+            Heal_1.sprite = FullHeal;
+            Heal_2.sprite = FullHeal;
             Heal_3.sprite = SemiNoHeal;
-            Heal_2.sprite = NoHeal;
-            Heal_1.sprite = NoHeal;
         }
-        if (_PHE.HealAmount <= 0)
+        if (_PA.HealAmount == 10)
         {
+            Heal_1.sprite = FullHeal;
+            Heal_2.sprite = FullHeal;
             Heal_3.sprite = NoHeal;
-            Heal_2.sprite = NoHeal;
-            Heal_1.sprite = NoHeal;
         }
+        if (_PA.HealAmount == 9)
+        {
+            Heal_1.sprite = FullHeal;
+            Heal_2.sprite = SemiFullHeal;
+            Heal_3.sprite = NoHeal;
+        }
+        if (_PA.HealAmount == 8)
+        {
+            Heal_1.sprite = FullHeal;
+            Heal_2.sprite = HalfFullHeal;
+            Heal_3.sprite = NoHeal;
+        }
+        if (_PA.HealAmount == 7)
+        {
+            Heal_1.sprite = FullHeal;
+            Heal_2.sprite = HalfNoHeal;
+            Heal_3.sprite = NoHeal;
+        }
+        if (_PA.HealAmount == 6)
+        {
+            Heal_1.sprite = FullHeal;
+            Heal_2.sprite = SemiNoHeal;
+            Heal_3.sprite = NoHeal;
+        }
+        if (_PA.HealAmount == 5)
+        {   
+            Heal_1.sprite = FullHeal;
+            Heal_2.sprite = NoHeal;
+            Heal_3.sprite = NoHeal;
+        }
+        if (_PA.HealAmount == 4)
+        {
+            Heal_1.sprite = SemiFullHeal;
+            Heal_2.sprite = NoHeal;
+            Heal_3.sprite = NoHeal;
+        }
+        if (_PA.HealAmount == 3)
+        {
+            Heal_1.sprite = HalfFullHeal;
+            Heal_2.sprite = NoHeal;
+            Heal_3.sprite = NoHeal;
+        }
+        if (_PA.HealAmount == 2)
+        {
+            Heal_1.sprite = HalfNoHeal;
+            Heal_2.sprite = NoHeal;
+            Heal_3.sprite = NoHeal;
+        }
+        if (_PA.HealAmount == 1)
+        {
+            Heal_1.sprite = SemiNoHeal;
+            Heal_2.sprite = NoHeal;
+            Heal_3.sprite = NoHeal;
+        }
+        if (_PA.HealAmount <= 0)
+        {
+            Heal_1.sprite = NoHeal;
+            Heal_2.sprite = NoHeal;
+            Heal_3.sprite = NoHeal;
+        }
+        Exp.text = $"EXP:{_PA.playerEXP}/{_PA.playerLevel * 50}";
     }
 }

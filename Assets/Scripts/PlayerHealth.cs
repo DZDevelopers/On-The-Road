@@ -21,6 +21,10 @@ public class PlayerHealth : MonoBehaviour
     void Update()
     {
         playerInvincibility -= Time.deltaTime;
+        if (playerHealth > playerMaxHealth)
+        {
+            playerHealth = playerMaxHealth;
+        }
     }
     public void TakeDamage(int damage)
     {

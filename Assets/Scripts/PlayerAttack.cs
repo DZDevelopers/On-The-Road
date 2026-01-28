@@ -22,9 +22,12 @@ public class PlayerAttack : MonoBehaviour
     [SerializeField] private GameObject bullet;
     public bool isShooting;
     public bool isHealing;
+    private int SP = 0;
     private float shootingTime = 0.5f;
-    
-    
+    public int playerEXP = 0;
+    public bool HasALevelUp = false;
+    public int playerLevel = 1;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -42,6 +45,7 @@ public class PlayerAttack : MonoBehaviour
         }
         if (Input.GetKey(KeyCode.LeftShift))
         {
+            SP = 1;
             isHealing = true;
             Heal();
         }
@@ -50,9 +54,23 @@ public class PlayerAttack : MonoBehaviour
             isHealing = false;
             anime.SetBool("IsHealing",false);
         }
+        if (Input.GetKeyUp(KeyCode.LeftShift))
+        {
+            SP = 0;
+        }
         ShootingTimer();
         HealingTimer();
         healingCooldown -= Time.deltaTime;
+        if (playerEXP > 50 * playerLevel)
+        {
+            HasALevelUp = true;
+        }
+        if (HasALevelUp)
+        {
+            LevelUp();
+            HasALevelUp = false;
+        }
+
     }
     void Shoot()
     {
@@ -108,7 +126,7 @@ public class PlayerAttack : MonoBehaviour
     {
         if (HealAmount > 0)
         {
-            if (healingCooldown <= 0)
+            if (healingCooldown <= 0 && ((SP == 0) || (SP == 1)))
             {
                 if (isHealing)
                 {
@@ -121,6 +139,7 @@ public class PlayerAttack : MonoBehaviour
                     _PH.playerHealth += 2;
                     healingTimer = 0f;
                     healingCooldown = 1f;
+                    SP ++;
                 }   
             }
         }
@@ -137,5 +156,14 @@ public class PlayerAttack : MonoBehaviour
             healingTimer = 0f;
         }
     }
-
+    void LevelUp()
+    {
+        playerLevel = playerLevel * 2;
+        _PH.playerMaxHealth += 2;
+        _PH.playerHealth = _PH.playerMaxHealth;
+        AmmoMaxAmount += 1;
+        AmmoAmount = AmmoMaxAmount;
+        HealMaxAmount += 5;
+        HealAmount = HealMaxAmount;
+    }
 }
