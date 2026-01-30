@@ -11,6 +11,9 @@ public class Fly : MonoBehaviour
     private bool isCharging = false;
     private Vector2 chargeDirection;
     private float chargeTimer;
+    private bool OnColdown;
+    private float CT;
+    public float coldowntimer = 1f;
     [HideInInspector] public Vector2 facingDirection = Vector2.right;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -41,20 +44,32 @@ public class Fly : MonoBehaviour
         if (chargeDirection.x > 0)
         {
             transform.localScale = new Vector3(-1f, 1f, 1f);  
-        }   
+        }
+        if (CT > 0)
+        {
+            OnColdown = true;
+        }
+        if (CT < 0)
+        {
+            OnColdown = false;
+        }     
     }
     void FixedUpdate()
     {
         _rb.linearVelocity = chargeDirection * chargeSpeed;
     }
-     void DetectPlayer()
+    void DetectPlayer()
     {
         float distance = Vector2.Distance(transform.position, player.position);
 
-        if (distance <= detectionRange)
+        if (!OnColdown)
+        {
+            if (distance <= detectionRange)
         {
             StartCharge();
         }
+        }
+        
     }
 
     void StartCharge()
@@ -62,11 +77,16 @@ public class Fly : MonoBehaviour
         isCharging = true;
         chargeTimer = chargeDuration;
         chargeDirection = (player.position - transform.position).normalized;
+        Coldown();
     }
 
     void StopCharge()
     {
         isCharging = false;
         _rb.linearVelocity = Vector2.zero;
+    }
+    void Coldown()
+    {
+        CT = coldowntimer;
     }
 }
