@@ -11,6 +11,7 @@ public class Fly : MonoBehaviour
     private bool isCharging = false;
     private Vector2 chargeDirection;
     private float chargeTimer;
+    [HideInInspector] public Vector2 facingDirection = Vector2.right;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -28,13 +29,23 @@ public class Fly : MonoBehaviour
             {
                 StopCharge();
             }
-            _rb.linearVelocity = chargeDirection * chargeSpeed;
         }
         else
         {
             DetectPlayer();
         }
-
+        if (chargeDirection.x < 0)
+        {
+            transform.localScale = new Vector3(1f, 1f, 1f);
+        }   
+        if (chargeDirection.x > 0)
+        {
+            transform.localScale = new Vector3(-1f, 1f, 1f);  
+        }   
+    }
+    void FixedUpdate()
+    {
+        _rb.linearVelocity = chargeDirection * chargeSpeed;
     }
      void DetectPlayer()
     {

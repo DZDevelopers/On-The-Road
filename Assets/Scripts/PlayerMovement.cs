@@ -109,7 +109,6 @@ public class PlayerMovement : MonoBehaviour
 
     void FixedUpdate()
     {
-        // Movement only applied if not attacking
         if (!isAttacking && !playerAttack.isShooting)
         {
             _rb.linearVelocity = new Vector2(moveX, moveY).normalized * moveSpeed;

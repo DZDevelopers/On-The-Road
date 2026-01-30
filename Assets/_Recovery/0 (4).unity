@@ -29331,7 +29331,6 @@ GameObject:
   - component: {fileID: 822093542}
   - component: {fileID: 822093541}
   - component: {fileID: 822093540}
-  - component: {fileID: 822093545}
   m_Layer: 0
   m_Name: Fly
   m_TagString: Untagged
@@ -29351,11 +29350,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cba18f1805355f248abb732511d8939f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Fly
-  chargeSpeed: 5
-  chargeDuration: 0.75
+  chargeSpeed: 10
+  chargeDuration: 0.6
   detectionRange: 6
   player: {fileID: 0}
-  facingDirection: {x: 1, y: 0}
 --- !u!50 &822093541
 Rigidbody2D:
   serializedVersion: 5
@@ -29421,7 +29419,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 0.6875}
+    oldSize: {x: 1, y: 1}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -29478,7 +29476,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -7965240897862384532, guid: 363bed6e9b81046478fe5d2f4ed2b589, type: 3}
+  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -29503,28 +29501,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!95 &822093545
-Animator:
-  serializedVersion: 7
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 822093539}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 212b4fa8f374afc4a97fa0a697259f92, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
 --- !u!1001 &835282650
 PrefabInstance:
   m_ObjectHideFlags: 0
