@@ -65,9 +65,9 @@ public class Fly : MonoBehaviour
         if (!OnColdown)
         {
             if (distance <= detectionRange)
-        {
-            StartCharge();
-        }
+            {
+                StartCharge();
+            }
         }
         
     }
