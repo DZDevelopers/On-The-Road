@@ -58,7 +58,7 @@ public class PlayerAttack : MonoBehaviour
         ShootingTimer();
         HealingTimer();
         healingCooldown -= Time.deltaTime;
-        if (playerEXP > 50 * playerLevel)
+        if (playerEXP >= 50 * playerLevel)
         {
             HasALevelUp = true;
         }
