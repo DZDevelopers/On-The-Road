@@ -2,12 +2,12 @@ using UnityEngine;
 
 public class Fly : MonoBehaviour
 {
-
+    public PlayerHealth playerHealth;
     [SerializeField] private float chargeSpeed = 10f;
     [SerializeField] private float chargeDuration = 0.6f;
     [SerializeField] private float detectionRange = 6f;
     private Rigidbody2D _rb;
-    [SerializeField] private Transform player;
+    private Transform player;
     private bool isCharging = false;
     private Vector2 chargeDirection;
     private float chargeTimer;
@@ -15,11 +15,14 @@ public class Fly : MonoBehaviour
     private float CT;
     public float coldowntimer = 1f;
     [HideInInspector] public Vector2 facingDirection = Vector2.right;
+    public PlayerAttack playerAttack;
+    private Animator anime;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         _rb = GetComponent<Rigidbody2D>();
         player = GameObject.FindGameObjectWithTag("Player").transform;
+        anime = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -52,11 +55,15 @@ public class Fly : MonoBehaviour
         if (CT < 0)
         {
             OnColdown = false;
-        }     
+        }  
+        CT -= Time.deltaTime;   
     }
     void FixedUpdate()
     {
-        _rb.linearVelocity = chargeDirection * chargeSpeed;
+        if (isCharging)
+        {
+            _rb.linearVelocity = chargeDirection * chargeSpeed;
+        }
     }
     void DetectPlayer()
     {
@@ -88,5 +95,32 @@ public class Fly : MonoBehaviour
     void Coldown()
     {
         CT = coldowntimer;
+    }
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Player")
+        {
+           playerHealth.TakeDamage(1);
+        }
+        if (collision.gameObject.tag == "Bullet")
+        {
+            Destroy(collision.gameObject);
+            EDeath();
+        }
+    }
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "AttackPoint")
+        {
+            EDeath();
+        }
+    }
+    void EDeath()
+    {
+        anime.Play("Fly_Death");
+        Destroy(gameObject, 0.1f);
+        playerAttack.playerEXP += 10;
+        playerAttack.AmmoAmount += 1;
+        playerAttack.HealAmount += 1;
     }
 }
