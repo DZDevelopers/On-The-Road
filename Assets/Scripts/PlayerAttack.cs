@@ -127,30 +127,28 @@ public class PlayerAttack : MonoBehaviour
         }
     }
     void Heal()
+{
+    if (HealAmount > 0)
     {
-        if (HealAmount > 0)
+        if (healingCooldown <= 0 && SP)
         {
-            if (healingCooldown <= 0 && SP)
+            if (healingTimer >= healingTime)
             {
-                if (isHealing)
-                {
-                    anime.SetBool("IsHealing",true);
-                }
-                if (healingTimer >= healingTime)
-                {
-                    Debug.Log("SHould work down");
-                    HealAmount -= 5;
-                    _PH.playerHealth += 2;
-                    healingTimer = 0f;
-                    healingCooldown = 1f;
-                    SP = false;
-                    anime.SetBool("IsHealing",false);
-                    anime.Play("HealingDone");
-                }   
+                HealAmount -= 5;
+                _PH.playerHealth += 2;
+                healingTimer = 0f;
+                healingCooldown = 1f;
+                SP = false;
+                anime.SetBool("IsHealing", false);
+                anime.Play("HealingDone");
+            }
+            else if (isHealing)
+            {
+                anime.SetBool("IsHealing", true);
             }
         }
-        
     }
+}
     void HealingTimer()
     {
         if (isHealing)
