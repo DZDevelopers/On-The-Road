@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.daniel-geo.unityhackatime": {
+      "version": "file:C:/Users/Aymen/Downloads/unity-hackatime-main/unity-hackatime-main/Assets/com.daniel-geo.unityhackatime",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.2d.animation": {
       "version": "13.0.2",
       "depth": 0,
